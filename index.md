@@ -1,6 +1,6 @@
 ---
-layout: home
-title: ODAP
+layout: page
+title: ODAP (Outbreak Data Analysis Platform)
 description: Outbreak Data Analysis Platform (ODAP)
 intro_image: "img/ap/i4c-map-updated.png"
 intro_image_absolute: false
@@ -11,7 +11,7 @@ The ODAP is guided and overseen by the ODAP Partnership, a collaboration among n
 
 ## Scope
 
-The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens\* or other exposures\*\* of public health interest. Research within the ODAP is strictly limited to this purpose. 
+**The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens\* or other exposures\*\* of public health interest. Research within the ODAP is strictly limited to this purpose.**
 
 \*Emerging or re-emerging pathogens of public health interest: this term describes new infectious agents, and new, re-emerging or therapy-resistant forms of existing infectious agents. 
 
@@ -100,14 +100,6 @@ In future, plans are in place to transfer data to link with:
 - Pillar 1 testing
 - Pillar 2 testing
 - ONS
-
-
-
-
-
-
-# References
-
 
 
 
