@@ -1,22 +1,7 @@
 main:
-  - name: "Outputs"
-    url: "/outputs/"
-    weight: 2
-  - name: "Analysis Platform"
-    url: "/analysis-platform"
+  - name: "Access"
+    url: "/access"
     weight: 1
-  - name: "Live Reports"
-    url: "/reports/"
-    weight: 2
-  - name: "Jobs"
-    url: "/jobs/"
-    weight: 4
-  - name: "Access requests"
-    url: "/sample_access/"
-    weight: 4
-  - name: "Site set-up"
-    url: "/setup/"
-    weight: 4
 
 footer:
   - name: "Home"
