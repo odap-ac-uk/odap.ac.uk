@@ -1,0 +1,41 @@
+I"�<h1 id="data-available-within-odap--">Data available within ODAP <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> <sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></h1>
+
+<p>ODAP holds unique and growing aggregation of UK sovereign data assets. Over time we aim to include more assets to incurage further research into the emerging and re-emerging pathogens or exposures of public health interest. The most up-to-date list of available data-sets is available on on the <a href="https://www.healthdatagateway.org/">HDR Gateway</a> and more detailed data dictionary on the <a href="https://github.com/isaric4c/wiki">ODAP Wiki</a>.</p>
+
+<p>The following key data sets are available: <sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup></p>
+<ul>
+  <li>ISARIC4C/CO-CIN - clinical measurements and characterisation of COVID-19 patients</li>
+  <li>GenOMICC – whole genome sequencing and genotyping of severe and mild COVID-19 patients</li>
+  <li>PHOSP – long term follow up of COVID-19 patients)</li>
+</ul>
+
+<p>Further information is available on the <a href="https://www.healthdatagateway.org/">HDR Gateway</a> and the <a href="https://github.com/isaric4c/wiki">ODAP Wiki</a>.</p>
+
+<!--
+-   HEAL COVID - clinical trial of treatments for people discharged from hospital after recovering from COVID-19. 
+-   UK-CIC studies - immunology of COVID-19 patients and vaccination. 
+-   SARS-CoV-2 viral sequencing (COG-UK) - data from ~14% of all cases in England and Scotland since March 2020 (>1 million genomes) 
+-   Linked cases with both virus and host genomes - ~15,000 cases 
+-   RECOVERY trial – randomised control trial of treatments for COVID-19 disease. 
+-   NHS clinical records  
+-   National vaccination records – records of COVID-19 vaccination  
+-   Critical care audit data (SICSAG)  
+-   Mortality records  
+-   ICNARC CMP 
+
+-->
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>“I think we need a clear figure that shows the two parts of ODAP (flexi space and TRE) and then shows the data sets in each. We can then have a table or text below.” - Ewan Harrison. (note: there will no longer be a distinction between the safehaven tre and the flexi/odap tre, we’ll need to rewrite some of this text as that change happens. - Jack Oliver) <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>The list of data already needs to be kept upto date on the HDR Gateway, rather than duplicating that work can we link to the Gateway for this information. - Jack Oliver <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>“I think should ask each data provider to give a short overview blurb or we can prepare one and send it to them for corrections. We should also link out to the original study or data generators website.” - [[Ewan Harrison]] <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
