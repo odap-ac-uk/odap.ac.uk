@@ -1,10 +1,5 @@
 ---
 layout: archive
-title: ODAP (Outbreak Data Analysis Platform)
-description: Outbreak Data Analysis Platform (ODAP)
-intro_image: "img/ap/i4c-map-updated.png"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
 ---
 
 # The Outbreak Data Analysis Platform (ODAP)

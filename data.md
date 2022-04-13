@@ -1,11 +1,11 @@
 ---
 title: 'Available Data'
-layout: 'page'
+layout: 'single'
 ---
 
-# Data available within ODAP [^1] [^2]
+ODAP holds unique and growing aggregation of UK sovereign data assets. Over time we aim to include more assets to incurage further research into the emerging and re-emerging pathogens or exposures of public health interest. The most up-to-date list of available data-sets is available on on the [HDR Gateway](https://www.healthdatagateway.org/) and more detailed data dictionary on the [ODAP Wiki](https://github.com/isaric4c/wiki).
 
-ODAP holds unique and growing aggregation of UK sovereign data assets. Over time we aim to include more assets to incurage further research into the emerging and re-emerging pathogens or exposures of public health interest. The most up-to-date list of available data-sets is available on on the [HDR Gateway](https://www.healthdatagateway.org/) and more detailed data dictionary on the [ODAP Wiki](https://github.com/isaric4c/wiki). 
+## Data held within ODAP [^1] [^2] 
 
 The following key data sets are available: [^3]
 -   ISARIC4C/CO-CIN - clinical measurements and characterisation of COVID-19 patients  

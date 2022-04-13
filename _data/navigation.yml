@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Available Data"
+    url: /data/
+  - title: "About the Platform"
+    url: /platform/
+  - title: "Apply for Access"
+    url: /access/
+  - title: "Contact Us"
+    url: /contact/
