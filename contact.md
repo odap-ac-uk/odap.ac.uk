@@ -1,7 +1,6 @@
 ---
 title: Contact
-layout: contact
-bodyClass: page-contact
+layout: single
 ---
 
 Please first direct all queries to odap@ed.ac.uk. 
