@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Logo Options"
+    url: /logo/
   - title: "Available Data"
     url: /data/
   - title: "About the Platform"
