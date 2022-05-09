@@ -2,9 +2,6 @@
 layout: page
 title: ODAP (Outbreak Data Analysis Platform)
 description: Outbreak Data Analysis Platform (ODAP)
-intro_image: "img/ap/i4c-map-updated.png"
-intro_image_absolute: false
-intro_image_hide_on_mobile: false
 ---
 
 The ODAP is guided and overseen by the ODAP Partnership, a collaboration among nationwide research studies, public health agencies, the NHS and clinicians and scientists.
