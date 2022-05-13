@@ -3,9 +3,9 @@ title: 'Privacy'
 layout: 'single'
 ---
 
-# CCP-UK Privacy Notice
+## CCP-UK Privacy Notice
 
-## What is CCP-UK?
+### What is CCP-UK?
 
 CCP-UK is a research study involving people with infections. The aims of
 the CCP-UK study include gaining important information about infections
@@ -68,7 +68,7 @@ is two-fold:
 Due to the collection of NHS numbers, the data for Tier 0 patients is
 now identifiable.
 
-## How does The University of Oxford use and protect my data?
+### How does The University of Oxford use and protect my data?
 
 Research is a task that we perform in the public interest. The
 University of Oxford, as sponsor, is the data controller. This means
@@ -83,7 +83,7 @@ purposes in the public interest, scientific or historical research
 purposes or statistical purposes (article 9 (2) (j), based on Article
 89(1)).
 
-### Participants in England and Wales:
+#### Participants in England and Wales:
 
 We will send your unique study number, NHS number, date of birth, 
 postcode and gender to NHS Digital or its successor NHSx. This allows
@@ -111,7 +111,7 @@ The COPI notice has since been extended multiple times, most recently on
 27th August 2021 which allows for its use until 31st March 2022 (status last 
 reviewed by ISARIC4C investigators on 18th November 2021).
 
-### Participants in Scotland:
+#### Participants in Scotland:
 
 We will send your unique study number, CHI number, date of birth, postcode 
 and gender to NHS Scotland. This allows them to retrieve data from routine 
@@ -137,7 +137,7 @@ to routine data held by NHS Scotland, Public Health Scotland, GPs and National
 Records of Scotland. The PBPP approval is in place until 31st May 2022, after 
 which the study team will apply to extend the approval if data processing is ongoing.
 
-## What to do next?
+### What to do next?
 
 If you decide you do not want your data to be linked in this way you can withdraw 
 from this follow-up, without affecting your current medical care, by contacting 
@@ -147,7 +147,7 @@ who directly requests not to be included. If we have already received your data 
 the time you indicate that you do not want your study data linked to routine records 
 then we will remove your identifiers from our dataset.
 
-## How to opt out
+### How to opt out
 If after reading this you wish to opt out of this study by having your data removed please email **[ccp@liverpool.ac.uk](mailto:ccp@liverpool.ac.uk)** including your name, date of birth, NHS number, and post code.
 We will look for your details in our data and if we find it we will delete it. In any case we will email back to you within 14days to tell you if we found your data and if we did to confirm that your data has been removed.
 If you have signed up to the National Data Opt-Out and you are recruited after the expiry of the COPI notice on 30th June 2022, your data will be removed from the study.
