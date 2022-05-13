@@ -1,6 +1,6 @@
 ---
 title: 'Jobs'
-layout: 'default'
+layout: 'single'
 ---
 
 # Work with us
