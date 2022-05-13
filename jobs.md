@@ -3,7 +3,7 @@ title: 'Jobs'
 layout: 'single'
 ---
 
-# Work with us
+## Work with us
 
 There has never been a more exciting time to join our dynamic and driven data team in designing, developing, and delivering the ISARIC Clinical Characterisation Protocol and the 
 [Outbreak Data Analysis Platform](https://isaric4c.net/analysis-platform/) (ODAP).  
@@ -15,7 +15,7 @@ We are always interested to hear from experienced and enthusiastic individuals, 
 See [previous outputs from ISARIC 4C](/outputs/)
 
 
-# Posts available now
+## Posts available now
 
 
 ## [Data Curation & Driver Project Analyst](https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2438)
