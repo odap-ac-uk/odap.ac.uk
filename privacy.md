@@ -1,6 +1,6 @@
 ---
 title: 'Privacy'
-layout: 'page'
+layout: 'default'
 ---
 
 # CCP-UK Privacy Notice
