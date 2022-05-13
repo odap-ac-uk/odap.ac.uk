@@ -1,15 +1,22 @@
 ---
-layout: archive
+title: "_The_ <br />Outbreak <br />Data Analysis <br />Platform"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Apply for Access"
+      url: /access/
+excerpt: "The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens.
+<br />
+<br />
+During the COVID-19 pandemic, the UK generated several unique research data assets that have enabled critical discoveries and have shaped the COVID-19 response in the UK and around the world. ODAP is now in the process of unifying these data assets along with human and viral genomes within the ODAP trusted research environment (TRE). Beyond COVID-19 the ODAP will focus on emerging or re-emerging infectious agents, therapy-resistant forms of existing infectious agents or other exposures of public health interest.
+<br />
+<br />
+Within the ODAP TRE we promote further vital research and create the oppertunity for further critical discoveries by creating additional data linkages, automating data flows and analyses, and by democratising access to UK research datasets."
 ---
 
-# The Outbreak Data Analysis Platform
-The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens.
-
-During the COVID-19 pandemic, the UK generated several unique research data assets that have enabled critical discoveries and have shaped the COVID-19 response in the UK and around the world. ODAP is now in the process of unifying these data assets along with human and viral genomes within the ODAP trusted research environment (TRE). Beyond COVID-19 the ODAP will focus on emerging or re-emerging infectious agents, therapy-resistant forms of existing infectious agents or other exposures of public health interest.
-
-Within the ODAP TRE we promote further vital research and create the oppertunity for further critical discoveries by creating additional data linkages, automating data flows and analyses, and by democratising access to UK research datasets.
-
-[Apply for data access](/access/) 
 
 ## Scope
 The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens (new infectious agents, and new, re-emerging or therapy-resistant forms of existing infectious agents) or other exposures (new or unexplained poisoning, or exposure to harmful energy sources such as electromagnetic radiation) of public health interest. Research within the ODAP is strictly limited to this purpose.

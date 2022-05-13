@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "odap.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  odap-ac-uk
 repository: "odap-ac-uk/odap.ac.uk"
-logo: "/assets/images/Asset-4.png"
+logo: "/assets/images/odap-dendritic-logo-v2b.svg"
 
 # Build settings
 theme: minimal-mistakes-jekyll
