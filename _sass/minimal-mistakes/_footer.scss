@@ -49,6 +49,11 @@
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  font-weight: 700;
+  color: #ffffff;
+  a {
+    padding-left: 1em;
+  }
 }
 
 .page__footer-follow {
