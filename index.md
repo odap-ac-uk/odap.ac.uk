@@ -17,7 +17,6 @@ During the COVID-19 pandemic, the UK generated several unique research data asse
 Within the ODAP TRE we promote further vital research and create the oppertunity for further critical discoveries by creating additional data linkages, automating data flows and analyses, and by democratising access to UK research datasets."
 ---
 
-<<<<<<< HEAD
 ## Information for the Public
 UK science has been at the forefront of the scientific endeavours to understand the biology of the SARS-CoV-2 virus and to find better ways to treat and prevent COVID-19 disease.  
 
