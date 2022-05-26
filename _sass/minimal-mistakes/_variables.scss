@@ -14,6 +14,8 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $sans-serif: Inter, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+/* HACK: the $serif variable is defined the same way as the sans-serif to fix a build error with the theme when $serif is removed. Another way to do this may involve including the vendor/ directory from the theme in our repo directly */
+$serif: Inter, -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 $global-font-family: $sans-serif !default;
