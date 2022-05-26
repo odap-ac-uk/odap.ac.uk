@@ -29,7 +29,7 @@ repository: "odap-ac-uk/odap.ac.uk"
 logo: "/assets/images/odap-dendritic-logo-v2b.svg"
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-paginate
