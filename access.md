@@ -1,9 +1,9 @@
 ---
 title: 'Apply for Access'
-layout: 'page'
+layout: 'single'
 ---
 
-# Before you apply 
+## Before you apply 
 * The ODAP platform can be accessed by UK and international academic and public health researchers with institutional support. [^1] [^2] [^3]
 * Researchers have to make a [‘five safes’](http://www.fivesafes.org/) project specific application. 
 * Before an application is made - all researchers accessing ODAP will need to have completed the following information governance training [^4]  
@@ -13,6 +13,6 @@ layout: 'page'
 [^3]: Is commercial access allowed? - Jack Oliver
 [^4]: What training? 
 
-# Applying for Access  
+## Applying for Access  
 
 You can apply for access to ODAP through the following application form located on the [HDR Gateway](https://www.healthdatagateway.org/). We suggest all interested parties make a pre-application enquiry to the ODAP team at odap@ed.ac.uk – including in your email a brief overview (200 words) of the research you wish to conduct. 
