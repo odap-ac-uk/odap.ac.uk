@@ -37,5 +37,3 @@ gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.3"
 gem "jekyll-gist", "~> 1.5"
 gem "jekyll-include-cache", "~> 0.1"
-gem "Kramdown"
-gem `kramdown-cite`
