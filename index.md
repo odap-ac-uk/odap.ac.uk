@@ -32,7 +32,7 @@ The findings made by analysing the data from these three studies have all alone 
 
 The Outbreak data analysis platform (ODAP) partnership has now been set up by scientists across the UK to bring together the data from these three studies (and others) in a single secure and powerful computer system that will allow scientists to analyse the together all together for the first time.  
 
-The data will be held securely and anonymously, and access will be restricted to only accredited scientists who will be able to access and use the data – after going through a ‘five safes’ (URL) application process. 
+The data will be held securely and anonymously, and access will be restricted to only accredited scientists who will be able to access and use the data – after going through a ‘five safes’ application process. 
 
 The joined-up nature of health care data in the UK National Health Service (NHS) makes the UK one of the very few places in the world were this can be done in big enough numbers to make new discoveries possible. It offers the opportunity for scientists to make new discoveries to help treat COVID-19 patients and to improve the pandemic response.  
 

@@ -35,7 +35,7 @@ An API structure has been built for real-time data sharing with other trusted re
 
 ### Structure
 
-There are two routes of access to the analysis platform (@fig:structure):
+There are two routes of access to the analysis platform (Figure 1):
 
 1. NHS Trusted Research Environment (Safe Haven) for access to personal clinical data and data collected without explicit consent.
 2. Rapid-access flexible compute for access to non-disclosive research data collected with explicit consent.
