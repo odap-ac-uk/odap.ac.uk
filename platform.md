@@ -48,7 +48,7 @@ Within both of these environments there are two levels of access, governed by th
 This design is intended to demonstrate trust in order to encourage immediate contributions of research data from academic collaborators. It makes data available immediately for discovery, whilst protecting the rights of data creators and contributors.
 
 <figure>
-![Structure of the Outbreak Analysis Platform](https://isaric4c.net/img/ap/i4c-analysis-platform-updated.png)
+<img src="/assets/images/i4c-analysis-platform-updated.png" alt="Structure of the Outbreak Analysis Platform">
 <figcaption>Figure 1: Structure of the Outbreak Analysis Platform</figcaption>
 </figure>
 
