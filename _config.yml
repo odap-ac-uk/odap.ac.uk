@@ -59,16 +59,16 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-scholar:
-  style: apa
-  locale: en
-  source: ./_bibliography
-  bibliography: references.bib
-  allow_locale_overrides: false
-  sort_by: none
-  order: ascending
-  group_by: none
-  group_order: ascending
-  bibtex_filters: latex,smallcaps,superscript
-  raw_bibtex_filters: 
+#scholar:
+#  style: apa
+#  locale: en
+#  source: ./_bibliography
+#  bibliography: references.bib
+#  allow_locale_overrides: false
+#  sort_by: none
+#  order: ascending
+#  group_by: none
+#  group_order: ascending
+#  bibtex_filters: latex,smallcaps,superscript
+#  raw_bibtex_filters: 
 #  bibliography_template: references
