@@ -59,8 +59,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#scholar:
-#  style: apa
+scholar:
+  style: nature
 #  locale: en
 #  source: ./_bibliography
 #  bibliography: references.bib
