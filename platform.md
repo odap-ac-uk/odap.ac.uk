@@ -62,7 +62,7 @@ The proposal builds upon an established track record of impact. By generating, i
 - created the global standard ISARIC4C score for prognostication [isaric4c.net/risk](isaric4c.net/risk),{% cite knightriskstratificationpatients2020 %}
 - determined the impact of long Covid following hospitalisation, {% cite groupphysicalcognitivemental2021 %}
 - identified the substantial effect of transmission of Covid-19 within hospitals [SPI-M/SAGE report](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961210/S1056_Contribution_of_nosocomial_infections_to_the_first_wave.pdf),
-- provided key evidence underlying the choice of therapeutic agents for clinical trials,{% cite airocastineirageneticmechanismscritical2021 thwaitesinflammatoryprofilesspectrum2021 %}
+- provided key evidence underlying the choice of therapeutic agents for clinical trials,{% cite airocastineirageneticmechanismscritical2021 %} {% cite thwaitesinflammatoryprofilesspectrum2021 %}
 - provided real world data on vaccine effectiveness and failure (SAGE 87 Egan et al,  Egan et al.) 
 - observed data supporting identification of high risk groups for vaccination (highlighted in No10 briefing)
 - described the complications of Covid-19 in hospitalised patients.{% cite drakecharacterisationinhospitalcomplications2021 %}
