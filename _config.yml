@@ -36,6 +36,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-include-cache
+  - jekyll-scholar
 
 
 # Exclude from processing.
@@ -57,3 +58,18 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+scholar:
+  style: nature
+  bibliography_template: references
+  bibliography_list_tag: ul
+#  locale: en
+#  source: ./_bibliography
+#  bibliography: references.bib
+#  allow_locale_overrides: false
+#  sort_by: none
+#  order: ascending
+#  group_by: none
+#  group_order: ascending
+#  bibtex_filters: latex,smallcaps,superscript
+#  raw_bibtex_filters: 

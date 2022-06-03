@@ -39,6 +39,13 @@
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
 
+/* ODAP specific layout */
+.bibliography {
+    ul {
+     list-style-type: none;
+    }
+}
+
 /* Inter Font Family */
 @font-face {
     font-family: 'Inter';
