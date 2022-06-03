@@ -92,4 +92,9 @@ In future, plans are in place to transfer data to link with:
 - ONS
 
 
-{% bibliography --cited %}
+<div class="bibliography">
+## References
+
+    {% bibliography --cited %}
+
+</div>
