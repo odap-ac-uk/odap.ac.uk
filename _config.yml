@@ -62,6 +62,7 @@ plugins:
 scholar:
   style: nature
   bibliography_template: references
+  bibliography_list_tag: ul
 #  locale: en
 #  source: ./_bibliography
 #  bibliography: references.bib
