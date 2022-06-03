@@ -93,7 +93,7 @@ In future, plans are in place to transfer data to link with:
 
 
 <div class="bibliography">
-## References
+    <h2>References</h2>
 
     {% bibliography --cited %}
 
