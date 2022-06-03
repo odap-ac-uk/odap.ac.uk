@@ -61,6 +61,7 @@ plugins:
 
 scholar:
   style: nature
+  bibliography_template: references
 #  locale: en
 #  source: ./_bibliography
 #  bibliography: references.bib
@@ -71,4 +72,3 @@ scholar:
 #  group_order: ascending
 #  bibtex_filters: latex,smallcaps,superscript
 #  raw_bibtex_filters: 
-#  bibliography_template: references
