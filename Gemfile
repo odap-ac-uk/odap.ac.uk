@@ -37,4 +37,4 @@ gem "jekyll-paginate", "~> 1.1"
 gem "jekyll-sitemap", "~> 1.3"
 gem "jekyll-gist", "~> 1.5"
 gem "jekyll-include-cache", "~> 0.1"
-gem 'commonmarker', '~> 0.23.5'
+gem 'jekyll-scholar', '~> 7.1'
