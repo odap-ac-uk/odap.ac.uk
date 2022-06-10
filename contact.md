@@ -1,16 +1,8 @@
 ---
 title: Contact
-layout: contact
-bodyClass: page-contact
+layout: single
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Please first direct all queries to <a href="mailto:odap@ed.ac.uk">odap@ed.ac.uk</a>. 
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+This mailbox is staffed Monday to Friday 9 am to 5 pm and we will answer any queries as quickly as possible. 

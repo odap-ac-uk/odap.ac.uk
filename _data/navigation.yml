@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Home"
+    url: /index/
+  - title: "Scope"
+    url: /scope/
+  - title: "About the Platform"
+    url: /platform/
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Jobs"
+    url: /jobs/
