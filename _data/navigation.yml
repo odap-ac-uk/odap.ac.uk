@@ -8,9 +8,7 @@ main:
     url: /ppie/
   - title: "About the Platform"
     url: /platform/
-  - title: "Data Wiki"
-    url: https://github.com/joliverodap/wiki/wiki
   - title: "Contact Us"
     url: /contact/
-#  - title: "Jobs"
-#    url: /jobs/
+  - title: "Jobs"
+    url: /jobs/

@@ -1,7 +1,6 @@
 ---
 title: 'Scope'
 layout: 'single'
-toc: true
 ---
 
 

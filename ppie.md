@@ -1,22 +1,19 @@
 ---
 title: 'PPIE'
 layout: 'single'
-toc: true
-toc_min_header: 2
-toc_max_header: 2
 ---
 
-## **Outbreak Data Analysis Platform** COVID-19 Variants and Outbreaks Prioritisation -- Patient and Public Involvement and Engagement
+**Outbreak Data Analysis Platform** COVID-19 Variants and Outbreaks Prioritisation -- Patient and Public Involvement and Engagement
 
 *Sinduja Manohar*, April 2022
 
-### Seeking patient and public insights to prioritise questions on COVID-19 variants and outbreaks
+**Seeking patient and public insights to prioritise questions on COVID-19 variants and outbreaks**
 
 The purpose of the Outbreak Data Analysis Platform is to provide an accessible and usable data resource to enable research that is relevant to COVID-19, including new future COVID-19 outbreaks as well as those arising from other viruses. This will accelerate scientific understanding of new outbreaks for the benefit of patients and the protection of the public. To enable this to happen the Outbreak Data Analysis Platform (ODAP) brings together data from clinical records, research studies and audit data. ODAP is supported by UKRI and the Data and Connectivity Programme of the National Core Studies.
 
 The ODAP management group identified the need to involve patients and the public to provide guidance, challenge and advice. Following a planning workshop with members of the ODAP management group, Data and Connectivity programme staff, and a separate follow-up consultation with a public partner, recommendations were put forward on ways in which to involve patients and the public. One such recommendation was to run a prioritisation consultation with patients and the public to understand their needs and wants.
 
-### Understanding public perceptions on research priorities using ODAP data
+**Understanding public perceptions on research priorities using ODAP data**
 
 To ensure that public benefit at is forefront and that this work is shaped and directed by patients and the public, it was agreed that an online prioritisation consultation with patients and the public would run to understand what the research priorities are for patients and the public based on areas of research the ODAP team and research community put forward. By asking patients and the public to prioritise the research questions put forward, the aim is to understand which are urgent, which are 'nice-to-have' and to gather any other additional insights and suggested priorities from a patient and public perspective.
 
@@ -40,8 +37,6 @@ As such:
 
 -   **80** people self-identified and were subsequently categorised as being a **member of the public**
 
-### Respondent demographics
-
 To gain an understanding of who has completed the prioritisation consultation to help determine where there may be gaps and identify specific groups and populations that need more targeted involvement, respondents were asked to self-report their gender, ethnicity, year of birth and geographical location. These were optional questions and there are a handful of respondents who did not wish to disclose their anonymous demographics.
 
 **Gender:**
@@ -52,49 +47,21 @@ To gain an understanding of who has completed the prioritisation consultation to
 
 -   **4** individuals identified as being **non-binary**
 
+**Age**: **Table 1**: Respondents were asked to provide their Year of Birth which was then categorised into the following groups
 
-**Age:**
-<figure>
-    <table>
-    <thead>
-        <tr>
-        <th><strong>16-25 years</strong></th>
-        <th><strong>26-35 years</strong></th>
-        <th><strong>36-45 years</strong></th>
-        <th><strong>46-55 years</strong></th>
-        <th><strong>55-65 years</strong></th>
-        <th><strong>66-75 years</strong></th>
-        <th><strong>76-85 years</strong></th>
-        <th><strong>86 years and over</strong></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td>2</td>
-        <td>9</td>
-        <td>19</td>
-        <td>24</td>
-        <td>58</td>
-        <td>68</td>
-        <td>29</td>
-        <td>3</td>
-        </tr>
-    </tbody>
-    </table>
-    <figcaption><strong>Age: Table 1:</strong> Respondents were asked to provide their Year of Birth which was then categorised into the following groups</figcaption>
-</figure>
+  
+| **16-25 years** | **26-35 years** | **36-45 years** | **46-55 years** | **55-65 years** | **66-75 years** | **76-85 years** | **86 years and over** | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| 2  |  9  |  19  | 24  | 58  | 68  | 29  | 3  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 
-**Location:**
 **Geographical Location: Figure 1** provides an overview of number of respondents from each of the four nations.
 
-<figure>
-    <img src="/img/image4.png" alt="">
-    <figcaption>Figure 1</figcaption>
-</figure>
+![](/img/image4.png)
 
 The majority of respondents were from England with small levels of representation from Scotland, Wales and Northern Ireland.
 
-### Prioritising Research Questions -- Theme Areas
+**Prioritising Research Questions -- Theme Areas**
 
 A handful of research questions have been put forward by the ODAP team and research community where it is of importance to explore. These questions can be categorised into three main key themes:
 
@@ -104,40 +71,15 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   Theme 3 - How well vaccines and treatments work against COVID-19 *(Q3 in Figure 2)*
 
-<figure>
-    <table>
-    <thead>
-        <tr>
-        <th><strong>Rank</strong></th>
-        <th><strong>Theme 1 - How a COVID-19 variant is created and spreads</strong></th>
-        <th><strong>Theme 2 - What determines how unwell a person gets with COVID-19</strong></th>
-        <th><strong>Theme 3 - How well vaccines and treatments work against COVID-19</strong></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td><strong>1</strong></td>
-        <td>62</td>
-        <td>56</td>
-        <td><strong>98</strong></td>
-        </tr>
-        <tr>
-        <td><strong>2</strong></td>
-        <td>47</td>
-        <td>87</td>
-        <td>82</td>
-        </tr>
-        <tr>
-        <td><strong>3</strong></td>
-        <td>107</td>
-        <td>73</td>
-        <td>36</td>
-        </tr>
-    </tbody>
-    </table>
-    <figcaption><strong>Table 2:</strong> Number of people to have ranked each research area</figcaption>
-</figure>
+**Table 2:** Number of people to have ranked each research area
 
+| ----------- | ----------- | ----------- | ----------- | 
+**Rank** | **Theme 1 - How a COVID-19 variant is created and spreads** |  **Theme 2 - What determines how unwell a person gets with COVID-19** |  **Theme 3 - How well vaccines and treatments work against COVID-19** |
+| ----------- | ----------- | ----------- | ----------- | 
+| **1** |   62 | 56 | **98** |
+| **2** | 47|  87 | 82 |
+| **3** | 107  | 73 | 36 |
+| ----------- | ----------- | ----------- | ----------- | 
 
 
 **Key Findings:**
@@ -148,10 +90,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 **Figure 2:** Research theme areas ranked as '1' broken down by four population groups (percentage) - those who have had COVID-19, those who are deemed extremely clinically vulnerable, patient and public.
 
-<figure>
-    <img src="/img/image6.png" alt="">
-    <figcaption>Figure 2</figcaption>
-</figure>
+![](/img/image6.png)
 
 **Additional Findings:**
 
@@ -163,37 +102,19 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   All four nations had prioritised 'how well vaccines and treatments work against COVID-19'. Those in England has then put **'what determines how unwell a person gets with COVID-19'** has a close second in their prioritisation whilst this was deemed quite low in the other three nations.
 
-### How a COVID-19 variant is created and spreads - Prioritising Questions
+**How a COVID-19 variant is created and spreads - Prioritising Questions**
 
 A handful of research questions have been put forward by the ODAP team and research community where it is of importance to explore. Two questions were put forward under this theme:
 
 -   Why do different variants of COVID-19 have different abilities to transmit between people, whether that is more or less easily? *(Q1 in Figure 3)*
 
 -   COVID 19 variants can change if they infect people whose immune system (our body's way of fighting infection) doesn't work. How and why does this happen? *(Q2 in Figure 3)*
-<br />
-<figure>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Rank</strong></td>
-        <td><strong>Why do different variants of COVID-19 have different abilities to transmit between people, whether that is more or less easily?</strong></td>
-        <td><strong>COVID 19 variants can change if they infect people whose immune system (our body’s way of fighting infection) doesn’t work. How and why does this happen?</strong></td>
-        </tr>
-        <tr>
-        <td><strong>1</strong></td>
-        <td><strong>114</strong></td>
-        <td>102</td>
-        </tr>
-        <tr>
-        <td><strong>2</strong></td>
-        <td>102</td>
-        <td>114</td>
-        </tr>
-    </tbody>
-    </table>
-    <figcaption><strong>Table 3:</strong> Number of people to have ranked each individual research question</figcaption>
-</figure>
 
+**Table 3:** Number of people to have ranked each individual research question
+
+|**Rank**  | **Why do different variants of COVID-19 have different abilities to transmit between people, whether that is more or less easily?** |  **COVID 19 variants can change if they infect people whose immune system (our body's way of fighting infection) doesn't work. How and why does this happen?**|
+| **1**   |  **114**   |   102 |
+| **2**   |  102 |  114 |
 
 **Key Findings:**
 
@@ -205,10 +126,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 **Figure 3:** Research questions under 'how a COVID-19 variant is created and spreads' theme ranked as '1' broken down by four population groups (percentage) - those who have had COVID-19, those who are deemed extremely clinically vulnerable, patient and public.
 
-<figure>
-<img src="/img/image7.png" alt="">
-    <figcaption>Figure 3</figcaption>
-</figure>
+![](/img/image7.png)
 
 **Additional Findings:**
 
@@ -220,7 +138,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   Those in England and Wales correlate with the overall findings (although slightly higher percentage of 55%). However, those in **Scotland and Northern Ireland strongly prioritised exploring 'COVID 19 variants can change if they infect people whose immune system doesn't work. How and why does this happen?' (66% and 68% respectively).**
 
-### What determines how unwell a person gets with COVID-19 - Prioritising Questions
+**What determines how unwell a person gets with COVID-19 - Prioritising Questions**
 
 A handful of research questions have been put forward by the ODAP team and research community where it is of importance to explore. Three questions were put forward under this theme:
 
@@ -230,38 +148,12 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   Why do some people develop Long COVID -- while others don't? *(Q3 in Figure 4)*
 
-<figure>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Rank</strong></td>
-        <td><strong>Do different COVID-19 variants cause more or less severe disease?</strong></td>
-        <td><strong>Do a person’s genes affect the way  they respond to different COVID 19 variants?</strong></td>
-        <td><strong>Why do some people develop Long COVID – while others don’t?</strong></td>
-        </tr>
-        <tr>
-        <td><strong>1</strong></td>
-        <td><strong>75</strong></td>
-        <td>63</td>
-        <td><strong>78</strong></td>
-        </tr>
-        <tr>
-        <td><strong>2</strong></td>
-        <td>62</td>
-        <td>79</td>
-        <td>75</td>
-        </tr>
-        <tr>
-        <td><strong>3</strong></td>
-        <td>79</td>
-        <td>74</td>
-        <td>63</td>
-        </tr>
-    </tbody>
-    </table>
-    <figcaption><strong>Table 4:</strong> Number of people to have ranked each individual research question</figcaption>
-</figure>
+**Table 4:** Number of people to have ranked each individual research question
 
+| **Rank** | **Do different COVID-19 variants cause more or less severe disease?** | **Do a person's genes affect the way  they respond to different COVID 19 variants?** | **Why do some people develop Long COVID -- while others don't?** |
+| **1** | **75** | 63 | **78** |
+| **2** | 62 | 79  |  75 |
+| **3**  |  79 | 74  |  63 |
 
 **Key Findings:**
 
@@ -273,10 +165,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 **Figure 4:** Research questions under the 'what determines how unwell a person gets with COVID-19' theme ranked as '1' broken down by four population groups (percentage) - those who have had COVID-19, those who are deemed extremely clinically vulnerable, patient and public.
 
-<figure>
-<img src="/img/image8.png" alt="">
-    <figcaption>Figure 4</figcaption>
-</figure>
+![](/img/image8.png)
 
 **Additional Findings:**
 
@@ -288,7 +177,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   Those in England, Wales and Norther Ireland correlate with the overall findings. Whilst the priority question remained the same, those in **Scotland placed stronger importance** in understanding 'why some people develop Long COVID -- while others don't? **-- nearly 50% of the population placed this as more important than the other two questions combined.**
 
-### How well vaccines and treatments work against COVID-19 - Prioritising Questions
+**How well vaccines and treatments work against COVID-19 - Prioritising Questions**
 
 A handful of research questions have been put forward by the ODAP team and research community where it is of importance to explore. Two questions were put forward under this theme:
 
@@ -296,29 +185,11 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   How does the body's immune response to vaccination differ depending on the COVID-19 variants? *(Q2 in Figure 5)*
 
-<figure>
-    <table>
-    <tbody>
-        <tr>
-        <td><strong>Rank</strong></td>
-        <td><strong>Do different COVID-19 variants need different treatments?</strong></td>
-        <td><strong>How does the body’s immune response to vaccination differ depending on the COVID-19 variants?</strong></td>
-        </tr>
-        <tr>
-        <td><strong>1</strong></td>
-        <td>100</td>
-        <td><strong>116</strong></td>
-        </tr>
-        <tr>
-        <td><strong>2</strong></td>
-        <td>116</td>
-        <td>100</td>
-        </tr>
-    </tbody>
-    </table>
-    <figcaption><strong>Table 5:</strong> Number of people to have ranked each individual research question</figcaption>
-</figure>
+**Table 5:** Number of people to have ranked each individual research question
 
+| **Rank** | **Do different COVID-19 variants need different treatments?** | **How does the body's immune response to vaccination differ depending on the COVID-19 variants?** |
+| **1** | 100  |  **116** |
+| **2** | 116  |  100 |
 
 **Key Findings:**
 
@@ -332,11 +203,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 **Figure 5:** Research questions under 'how well vaccines and treatments work against COVID-19' theme ranked as '1' broken down by four population groups (percentage) - those who have had COVID-19, those who are deemed extremely clinically vulnerable, patient and public.
 
-<figure>
-<img src="/img/image9.png" alt="">
-    <figcaption>Figure 5</figcaption>
-</figure>
-
+![](/img/image9.png)
 
 **Additional Findings:**
 
@@ -346,7 +213,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 -   Additionally, findings across age groups were also consistent with the overall prioritisation except for those **aged 16-25 and 26-35 where 75% and 76%** of those age groups respectively **prioritised understanding 'how the body's immune response to vaccination differ depending on the COVID-19 variants?'.** Although the same question has been prioritised there is a **significant difference on the level of importance** placed on this question.
 
-### Research Areas and Questions put forward by patients and the public
+**Research Areas and Questions put forward by patients and the public**
 
 Throughout the online consultation, respondents were provided with opportunities to suggest additional research questions or areas of focus. **189 comments and questions** were received, some of which are specific to the work of ODAP and others that are more general to COVID-19 research yet still of tremendous use and value to the wider research question. After removing duplicates and general comments, including re-emphasising the importance of questions already prioritised, the questions and comments fall under the following themes:
 
@@ -436,7 +303,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
 34. Will those who are asymptomatic have 'hidden' damage that could cause issues later in life?
 
-### Limitations of Approach and Recommendations
+**Limitations of Approach and Recommendations**
 
 A benefit to running an online prioritisation consultation is that it enables a larger number of patients and the public to get involved without it taking too much of their time whilst still enabling a great deal of insights.
 
