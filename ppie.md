@@ -44,7 +44,7 @@ As such:
 
 To gain an understanding of who has completed the prioritisation consultation to help determine where there may be gaps and identify specific groups and populations that need more targeted involvement, respondents were asked to self-report their gender, ethnicity, year of birth and geographical location. These were optional questions and there are a handful of respondents who did not wish to disclose their anonymous demographics.
 
-#### Gender:
+**Gender:**
 
 -   **107** individuals identified as being **female**
 
@@ -53,7 +53,7 @@ To gain an understanding of who has completed the prioritisation consultation to
 -   **4** individuals identified as being **non-binary**
 
 
-#### Age:
+**Age:**
 <figure>
     <table>
     <thead>
@@ -84,7 +84,7 @@ To gain an understanding of who has completed the prioritisation consultation to
     <figcaption><strong>Age: Table 1:</strong> Respondents were asked to provide their Year of Birth which was then categorised into the following groups</figcaption>
 </figure>
 
-#### Location:
+**Location:**
 **Geographical Location: Figure 1** provides an overview of number of respondents from each of the four nations.
 
 <figure>
@@ -140,7 +140,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 
 
-#### Key Findings:
+**Key Findings:**
 
 -   Overall, patients and the public are keen to understand '**how well vaccines and treatments work against COVID-19**'.
 
@@ -153,7 +153,7 @@ A handful of research questions have been put forward by the ODAP team and resea
     <figcaption>Figure 2</figcaption>
 </figure>
 
-#### Additional Findings:
+**Additional Findings:**
 
 -   Findings were fairly consistent in rankings amongst ethnicities although a **higher percentage** of those who identified as any **ethnicity other than 'White'** prioritised '**how well vaccines and treatments work against COVID-19**' compared to those who identified as 'White' or 'White British' (**60% compared to 45%**).
 
@@ -195,7 +195,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 </figure>
 
 
-#### Key Findings:
+**Key Findings:**
 
 -   Overall, patients and the public are keen to understand '**why different variants of COVID-19 have different abilities to transmit between people, whether that is more or less easily?**'.
 
@@ -210,7 +210,7 @@ A handful of research questions have been put forward by the ODAP team and resea
     <figcaption>Figure 3</figcaption>
 </figure>
 
-#### Additional Findings:
+**Additional Findings:**
 
 -   Whilst rankings were relatively similar amongst those who identified as 'White', 'White British' or 'White Other', those who identified as being any **other ethnic minority have strongly prioritised 'Why do different variants of COVID-19 have different abilities to transmit between people, whether that is more or less easily?' with 83%** highlighting it as an area of importance.
 
@@ -263,7 +263,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 </figure>
 
 
-#### Key Findings:
+**Key Findings:**
 
 -   Overall, patients and the public were relatively even in ranking questions under this research theme with two questions ranking very similarly in terms of importance - '**do different COVID-19 variants cause more or less severe disease?**' and **'why do some people develop Long COVID -- while others don't?**'.
 
@@ -278,7 +278,7 @@ A handful of research questions have been put forward by the ODAP team and resea
     <figcaption>Figure 4</figcaption>
 </figure>
 
-#### Additional Findings:
+**Additional Findings:**
 
 -   Whilst overall there were relatively small differences in priorities of research questions under this theme, those who identified as being any other **ethnic minority have strongly prioritised exploring whether 'a person's genes affect the way they respond to different COVID 19 variants?' with 67%** highlighting that as an area of importance. Given the differences we have seen through the pandemic of how COVID-19 affects particular ethnic minorities, this finding would correlate with what we would expect to see.
 
@@ -320,7 +320,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 </figure>
 
 
-#### Key Findings:
+**Key Findings:**
 
 -   Overall, patients and the public are keen to understand '**how the body's immune response to vaccination differs depending on the COVID-19 variants?**'.
 
@@ -338,7 +338,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 </figure>
 
 
-#### Additional Findings:
+**Additional Findings:**
 
 -   Whilst overall there were relatively small differences in priorities of research questions under this theme, those who identified as being any other **ethnic minority have strongly prioritised exploring how the 'body's immune response to vaccination differs depending on the COVID-19 variants 'with 63%** highlighting that as an area of importance. Given the differences we have seen through the pandemic of how COVID-19 affects particular ethnic minorities, this finding would correlate with what we would expect to see.
 
@@ -350,7 +350,7 @@ A handful of research questions have been put forward by the ODAP team and resea
 
 Throughout the online consultation, respondents were provided with opportunities to suggest additional research questions or areas of focus. **189 comments and questions** were received, some of which are specific to the work of ODAP and others that are more general to COVID-19 research yet still of tremendous use and value to the wider research question. After removing duplicates and general comments, including re-emphasising the importance of questions already prioritised, the questions and comments fall under the following themes:
 
-#### Effect of variants:
+**Effect of variants:**
 
 1.  Can we predict future variants based on the variants that have emerged so far? Why are some variants more infectious than others?
 
@@ -368,7 +368,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
 8.  Extent to which variants impact different ethnic minorities
 
-#### Severity of COVID-19 symptoms
+**Severity of COVID-19 symptoms**
 
 9.  What determines the severity of COVID symptoms (beyond what was asked in the survey)?
 
@@ -388,7 +388,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
 17. Whether any diets, supplements etc have shown to lead to a better response to COVID-19 infection
 
-#### Long COVID:
+**Long COVID:**
 
 18. What puts people at a higher risk of Long COVID?
 
@@ -400,7 +400,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
     a.  How well treatments work against differing Long COVID symptoms
 
-#### Transmission:
+**Transmission:**
 
 22. Factors affecting transmission that go beyond the response of the immune system.
 
@@ -408,7 +408,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
 24. Does air quality have an impact on transmission?
 
-#### Vaccinations:
+**Vaccinations:**
 
 25. Likelihood and effectiveness of a regular, e.g., yearly COVID vaccination (as with the flu vaccination)
 
@@ -426,7 +426,7 @@ Throughout the online consultation, respondents were provided with opportunities
 
 31. Factors the affect the length of cover vaccinations can provide
 
-#### Other:
+**Other:**
 
 32. What does COVID becoming endemic really mean?
 

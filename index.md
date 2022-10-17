@@ -2,9 +2,8 @@
 title: "Outbreak <br />Data Analysis <br />Platform"
 layout: splash
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_color: "#e82a2b"
+  overlay_image: /assets/images/rombi.svg
   actions:
     - label: "Enquire for further information"
       url: /contact/
