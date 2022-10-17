@@ -12,5 +12,5 @@ main:
     url: https://github.com/joliverodap/wiki/wiki
   - title: "Contact Us"
     url: /contact/
-#  - title: "Jobs"
-#    url: /jobs/
+  - title: "Jobs"
+    url: /jobs/
