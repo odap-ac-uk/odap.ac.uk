@@ -12,7 +12,7 @@
 
             const colors = ["#4e79a7", "#f28e2c", "#e15759", "#76b7b2", "#59a14f", "#edc949", "#af7aa1", "#ff9da7", "#9c755f", "#bab0ab"]
             
-            const cohorts = await fetch("/data/fcs_data.json").then(response => response.json());
+            const cohorts = await fetch("/assets/data/fcs_data.json").then(response => response.json());
 
             cohorts.forEach(c => {
                 c.ds = c.projects.split(",");
@@ -58,7 +58,7 @@
                 }
             }
 
-            const sources = await fetch("/data/fcs_src.json").then(response => response.json());
+            const sources = await fetch("/assets/data/fcs_src.json").then(response => response.json());
 
             sources.forEach(src => {
                 let src_cohorts = cohorts.filter(c => c.ds.some(ds => src.ds.includes(ds)));
@@ -431,8 +431,8 @@
             </script>
         <style>
         </style>
-        <link rel="stylesheet" type="text/css" href="/style/index.css" />
-        <link rel="stylesheet" type="text/css" href="/style/foreign.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/index.css" />
+        <link rel="stylesheet" type="text/css" href="/assets/css/foreign.css" />
     </head>
     <body>
         <div id="canvas-container">
