@@ -223,8 +223,8 @@
                                     subnodes.forEach(sn => sn.hide());
                                     u.removeAttribute("visibility");
                                     
-                                    title.setAttribute("x", data.x);
-                                    title.setAttribute("y", data.y);
+                                    title.setAttribute("x", data.x  - title.querySelector("div").offsetWidth/2);
+                                    title.setAttribute("y", data.y - title.querySelector("div").offsetHeight/2);
                                     title.removeAttribute("visibility");
                                     render_linkage();
                                 })
@@ -254,7 +254,7 @@
                 let title = document.createElementNS("http://www.w3.org/2000/svg", "foreignObject");
                 title.insertAdjacentHTML("afterbegin",`
                         <div xmlns="http://www.w3.org/1999/xhtml">
-                            <h3>${data.name}</h3>
+                            <h3>${data.name.replaceAll("_", " ")}</h3>
                             <p>${data.n_raw} patients.</p>
                         </div>
                     `);
@@ -280,10 +280,10 @@
                         data.x = value; 
                         if (u.tagName.toLowerCase() == "use") {
                             u.setAttribute("x", data.x - u_edge/2);
-                            title.setAttribute("x", data.x);
+                            title.setAttribute("x", data.x - title.querySelector("div").offsetWidth/2);
                         } else {
                             u.setAttribute("cx", data.x);
-                            title.setAttribute("x", data.x);
+                            title.setAttribute("x", data.x - title.querySelector("div").offsetWidth/2);
                         }
                     },
                     get y() { return  data.y },
@@ -291,10 +291,10 @@
                         data.y = value; 
                         if (u.tagName.toLowerCase() == "use") {
                             u.setAttribute("y", data.y - u_edge/2);
-                            title.setAttribute("y", data.y);
+                            title.setAttribute("y", data.y - title.querySelector("div").offsetHeight/2);
                         } else {
                             u.setAttribute("cy", data.y);
-                            title.setAttribute("y", data.y);
+                            title.setAttribute("y", data.y - title.querySelector("div").offsetHeight/2);
                         }
                     },
                     color: data.color || colors[data.index%colors.length],

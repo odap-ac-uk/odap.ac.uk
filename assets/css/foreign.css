@@ -5,8 +5,9 @@ svg div {
     height: fit-content;
     width: fit-content;
     scrollbar-width: thin;
-    background-color: #fff8;
+    background-color: #fff5;
     padding: 3px;
+    border-radius: 10px;
 }
 
 svg foreignObject:not(.active, .selected) div > p {
@@ -43,6 +44,7 @@ button.close {
 
 foreignObject.active > div {
     background-color: #fff;
+    border-radius: 0;
 }
 
 foreignObject.selected > div {
