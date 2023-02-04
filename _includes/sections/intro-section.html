@@ -1,0 +1,13 @@
+{% assign intro_bg = '/assets/img/background/bg1.png' %}
+{% assign slide_img = '/assets/img/art/tgcc-min.svg' %}
+
+<!-- Start intro area -->
+<div class="intro-area intro-home {{classes}}">
+    {% if intro_bg %}
+    <div class="bg-wrapper">
+        <img src="{{intro_bg | relative_url }}" alt="">
+    </div>
+    {% endif %}
+    {% include intro-content.html %}
+</div>
+<!-- End Slider Area -->

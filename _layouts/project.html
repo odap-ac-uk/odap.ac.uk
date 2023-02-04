@@ -1,0 +1,103 @@
+---
+layout: default
+---
+<main>
+    <!-- Start Breadcrumb Area -->
+    <div class="page-area bread-pd">
+        <div class="breadcumb-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-title text-center">
+                        <h2>{{page.title}}</h2>
+                        <div class="bread-come">
+                            <nav aria-label="breadcrumb ">
+                                <ol class="breadcrumb purple lighten-4 justify-content-center">
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{'/' | relative_url}}">Home</a><i class="ti-angle-right"
+                                            aria-hidden="true"></i></li>
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{page.url | relative_url}}">{{page.title}}</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb Area -->
+    <!-- Start project Area -->
+    <div class="project-single bg-color-xs area-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="project-inner">
+                        <div class="project-image">
+                            <img src="{{page.img_src | relative_url }}" alt="{{page.title}}">
+                        </div>
+                    </div>
+                </div>
+                <!-- End Column -->
+                <div class="col-xl-4 col-lg-4 col-md-5">
+                    <div class="project-history">
+                        <div class="project-name">
+                            <ul>
+                                {% if page.project_name %}
+                                <li><span>Project:</span> {{page.project_name}}</li>
+                                {% endif %}
+
+                                {% if page.company %}
+                                <li><span>Company:</span> {{page.company}}</li>
+                                {% endif %}
+
+                                {% if page.ci %}
+                                <li><span>Lead:</span> {{page.ci}}</li>
+                                {% endif %}
+
+                                {% if page.startdate %}
+                                <li><span>Start date:</span> {{page.startdate}}</li>
+                                {% endif %}
+
+                                {% if page.theme %}
+                                <li><span>PSH Theme:</span> {{page.theme}}</li>
+                                {% endif %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Column -->
+                <div class="col-xl-8 col-lg-8 col-md-7">
+                    <div class="project-details">
+                        {{page.content}}
+                    </div>
+                    <p>&nbsp;</p><!-- evil hack to get spacing -->
+                    <p>&nbsp;</p><!-- evil hack to get spacing -->
+                    <p>&nbsp;</p><!-- evil hack to get spacing -->
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-5">
+                    <div class="new-project">
+                        <div class="project-new">
+                            <br>
+                            <h4>Browse other projects currently underway at the Baillie Gifford Pandemic Science Hub:</h4>
+                            <!--<a class="hire-btn">Choose a random project</a>-->
+                            <br>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-8 col-lg-8 col-md-7">
+                    {% include sections/project-carousel.html %}
+                </div>
+            </div>
+
+            <!-- End single page -->
+        </div>
+        <!-- End main content -->
+    </div>
+    <!-- End portfolio Area -->
+
+</main>
+

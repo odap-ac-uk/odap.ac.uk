@@ -1,0 +1,47 @@
+<!-- Start Tab Area -->
+<div class="services-tab-area fix area-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+                <div class="section-headline text-center">
+                    <h2>Our research themes</h2>
+                    <p>We give our scientists the freedom to create, innovate and fail. We drive the following key areas of research with an absolute focus on finding effective therapies.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+                <!-- Start Nav tabs -->
+                <ul class="nav service-tab" role="tablist">
+                    {% assign i = 1 %}
+                    {% for theme in site.data.themes limit:6 %}
+                    <li class="nav-item">
+                        <a class="nav-link {% if i == 1 %}active show{% endif %}" href="#tab-{{i}}" role="tab" data-toggle="tab">
+                            <span class="tab-icon"><i class="{{theme.icon}}"></i></span>
+                            <span class="cha-title">{{theme.name}}</span>
+                        </a>
+                    </li>
+                    {% assign i = i | plus:1 %}
+                    {% endfor %}
+                </ul>
+                <!-- End Nav tabs -->
+            </div>
+            <div class="col-xl-12 col-lg-12 col-md-12">
+                <div class="tab-content">
+                    {% assign i = 1 %}
+                    {% for theme in site.data.themes limit:6 %}
+                    <!--Start Tab Content -->
+                    <div role="tabpanel" class="tab-pane fade in {% if i == 1 %}active show{% endif %}" id="tab-{{i}}">
+                        {% include themes/theme-{{i}}.html %}
+                    </div>
+                    <!--Start Tab Content -->
+                    {% assign i = i | plus:1 %}
+                    {% endfor %}
+
+                </div>
+            </div>
+        </div>
+        <!-- end Row -->
+    </div>
+</div>
+<!-- End Tab end -->

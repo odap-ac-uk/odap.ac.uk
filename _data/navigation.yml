@@ -1,16 +1,10 @@
-# main links
-main:
-  - title: "Home"
-    url: /index/
-  - title: "Scope"
-    url: /scope/
-  - title: "PPIE"
-    url: /ppie/
-  - title: "About the Platform"
-    url: /platform/
-  - title: "Contact Us"
-    url: /contact/
-  - title: "Jobs"
-    url: /jobs/
-  - title: "Data Linkage"
-    url: /fcs_network/
+- text: Home
+  url: /#
+- text: Culture
+  url: /culture
+- text: Research
+  url: /all-projects
+- text: Team
+  url: /team
+- text: Contact
+  url: /contact
