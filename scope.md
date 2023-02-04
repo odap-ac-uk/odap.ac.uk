@@ -7,7 +7,7 @@ layout: 'single'
 The purpose of the ODAP is to facilitate biomedical research to advance understanding of disease caused by emerging or re-emerging pathogens (new infectious agents, and new, re-emerging or therapy-resistant forms of existing infectious agents) or other exposures (new or unexplained poisoning, or exposure to harmful energy sources such as electromagnetic radiation) of public health interest. Research within the ODAP is strictly limited to this purpose.
 
 ### The Platform
-Our UKRI-supported [platform](/platform/) based at the University of Edinburgh is a trusted research environment (TRE) running on a high-performance computing space that holds data securely allowing academic and public health researchers access following a ‘five safes’ (http://www.fivesafes.org) research application and governance process.  
+Our UKRI-supported [platform](/platform/) based at the UK National Supercomputer, University of Edinburgh is a trusted research environment (TRE) running on a high-performance computing space that holds data securely allowing academic and public health researchers access following a ‘five safes’ (http://www.fivesafes.org) research application and governance process.  
 
 Once granted access for a defined research project researchers can then make use of multiple datasets in the ODAP, handling sensitive data in the trusted research environment where it can be analysed along with non-sensitive data such as human and viral genomes. 
 
