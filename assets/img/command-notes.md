@@ -5,10 +5,13 @@ gm convert -background white -gravity center -extent 1500x1500+0+0 r3.png r3b.pn
 inkscape --export-type png tgcc4.svg -o tgcc4.png
 inkscape --export-type png logo.svg -o logo.png
 
+
 # convert svg to png and make it a square
-inkscape --export-type png microtrials.svg -o microtrials.png
-gm identify microtrials.png
-gm convert -background white -gravity center -extent 636x636+0+0 microtrials.png microtrials.png
+
+inkscape --export-type png i4c-map-bare.svg -o i4c-map-bare.png
+gm identify i4c-map-bare.png
+gm convert -background white -gravity center -extent 3300x2550+0+0 i4c-map-bare.png i4c-map-bare.png
+
 
 inkscape --export-type png odap.svg -o odap.png
 gm identify odap.png

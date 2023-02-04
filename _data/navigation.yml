@@ -11,10 +11,8 @@
   url: /#
   submenu:
     - text: Overview
-      url: /platform
+      url: /researchers
     - text: Scope
       url: /scope
-    - text: Datasets
-      url: /datasets
 - text: Contact us
   url: /contact
