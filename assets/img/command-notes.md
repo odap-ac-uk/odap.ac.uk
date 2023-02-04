@@ -10,7 +10,7 @@ inkscape --export-type png logo.svg -o logo.png
 
 inkscape --export-type png i4c-map-bare.svg -o i4c-map-bare.png
 gm identify i4c-map-bare.png
-gm convert -background white -gravity center -extent 3300x2550+0+0 i4c-map-bare.png i4c-map-bare.png
+gm convert -background transparent -gravity center -extent 3300x2550+0+0 i4c-map-bare.png i4c-map-bare.png
 
 
 inkscape --export-type png odap.svg -o odap.png
