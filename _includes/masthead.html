@@ -5,7 +5,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         {% unless logo_path == empty %}
-          <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+          <a class="site-logo" href="{{ '/' | relative_url }}"><img alt="Outbreak Data Analysis Platform" src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           <!-- HACK: removing 'site.masthead_title | default: site.title' from the brackets below keeps the a element which is needed for the hidden menu button to work propperly and prevents the site title from being duplicated as it is contained in the logo -->
