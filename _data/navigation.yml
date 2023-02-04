@@ -1,10 +1,20 @@
 - text: Home
   url: /#
-- text: Culture
-  url: /culture
-- text: Research
-  url: /all-projects
-- text: Team
-  url: /team
-- text: Contact
+- text: For the public
+  url: /#
+  submenu:
+    - text: Public involvement
+      url: /ppie
+    - text: Privacy
+      url: /privacy
+- text: For researchers
+  url: /#
+  submenu:
+    - text: Overview
+      url: /platform
+    - text: Scope
+      url: /scope
+    - text: Datasets
+      url: /datasets
+- text: Contact us
   url: /contact

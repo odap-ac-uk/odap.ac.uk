@@ -3,6 +3,7 @@
 gm convert -background white -gravity center -extent 1500x1500+0+0 r3.png r3b.png
 
 inkscape --export-type png tgcc4.svg -o tgcc4.png
+inkscape --export-type png logo.svg -o logo.png
 
 # convert svg to png and make it a square
 inkscape --export-type png microtrials.svg -o microtrials.png
@@ -24,24 +25,16 @@ gm convert -background white -gravity center -extent 900x900+0+0 red-button.png 
 
 # find and replace recursively in files
 
-grep -rl --exclude-dir=_site --exclude-dir=.git "img/about/view.png" . | xargs sed -i '' 's|img/about/view.png|img/art/view.png|g'
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
 
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/feature/" . | xargs sed -i '' 's|img/feature/|img/art/|g'
-
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/project/" . | xargs sed -i '' 's|img/project/|img/art/|g'
-
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/services/" . | xargs sed -i '' 's|img/services/|img/art/|g'
-
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/slider/" . | xargs sed -i '' 's|img/slider/|img/art/|g'
-
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/art/unusual-case-surveillance4.svg" . | xargs sed -i '' 's|img/art/unusual-case-surveillance4.svg|img/art/red-button.svg|g'
-
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "img/logo/preloader.gif" . | xargs sed -i '' 's|img/logo/preloader.gif|img/art/preloader.gif|g'
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
 
 __
 ## test commands
 
-grep -r "ab2.jpg" --exclude-dir=_site --exclude-dir=.git ./
+grep -r "assets/images/" --exclude-dir=_site --exclude-dir=.git --exclude-dir=img ./
+
+clear
 
 sed -i 's|img/about/ab2.jpg|img/art/ab2.jpg|g' 
 

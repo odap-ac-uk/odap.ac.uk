@@ -1,6 +1,7 @@
 ---
 title: 'Privacy statement'
-layout: 'single'
+layout: page
+permalink: /privacy
 ---
 
 

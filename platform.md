@@ -1,7 +1,10 @@
 ---
 title: 'Outbreak Data Analysis Platform'
-layout: 'single'
-toc: true
+layout: page
+subtitle: Work with us
+opener: There has never been a more exciting time to join our dynamic and driven data team in designing, developing, and delivering the ODAP.  
+img_src: assets/img/art/s3.png
+permalink: /platform
 ---
 
 The ODAP is guided and overseen by the ODAP Partnership, a collaboration among nationwide research studies, public health agencies, the NHS and clinicians and scientists.
@@ -48,7 +51,7 @@ Within both of these environments there are two levels of access, governed by th
 This design is intended to demonstrate trust in order to encourage immediate contributions of research data from academic collaborators. It makes data available immediately for discovery, whilst protecting the rights of data creators and contributors.
 
 <figure>
-<img src="/assets/images/i4c-analysis-platform-updated.png" alt="Structure of the Outbreak Analysis Platform">
+<img src="/assets/img/art/i4c-analysis-platform-updated.png" alt="Structure of the Outbreak Analysis Platform">
 <figcaption>Figure 1: Structure of the Outbreak Analysis Platform</figcaption>
 </figure>
 

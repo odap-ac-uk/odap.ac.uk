@@ -1,6 +1,8 @@
 ---
 title: 'Scope'
-layout: 'single'
+layout: page
+img_src: assets/img/art/s3.png
+permalink: /scope
 ---
 
 

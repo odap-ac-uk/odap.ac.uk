@@ -1,12 +1,13 @@
 ---
 title: 'Jobs'
-layout: 'single'
+layout: page
+subtitle: Work with us
+opener: There has never been a more exciting time to join our dynamic and driven data team in designing, developing, and delivering the ODAP.  
+img_src: assets/img/art/s3.png
+permalink: /jobs
 ---
 
 ## Work with us
-
-There has never been a more exciting time to join our dynamic and driven data team in designing, developing, and delivering the ISARIC Clinical Characterisation Protocol and the 
-[Outbreak Data Analysis Platform](https://isaric4c.net/analysis-platform/) (ODAP).  
 
 We are curating and driving research activities using COVID-19 data from various studies and institutions across the UK - including from the ISARIC4C; PHOSP-COVID and GenOMICC studies.
 
