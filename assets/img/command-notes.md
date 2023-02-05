@@ -28,9 +28,12 @@ gm convert -background white -gravity center -extent 900x900+0+0 red-button.png 
 
 # find and replace recursively in files
 
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img --exclude-dir=.jekyll-cache --exclude-dir=manual "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
 
-grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img --exclude-dir=.jekyll-cache --exclude-dir=manual "color" .
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img --exclude-dir=.jekyll-cache --exclude-dir=manual "#017BFF" .
+
+grep -rl --exclude-dir=_site --exclude-dir=.git --exclude-dir=img --exclude-dir=.jekyll-cache --exclude-dir=manual "/assets/images/odap-logo.svg" . | xargs sed -i '' 's|/assets/images/odap-logo.svg|/assets/img/logo/logo.svg|g'
 
 __
 ## test commands
