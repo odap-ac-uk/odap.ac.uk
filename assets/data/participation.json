@@ -1,0 +1,54 @@
+[
+    {
+        "entities": [
+            {
+                "type": "project",
+                "id": "2122-0105"
+            },
+            {
+                "type": "dataset",
+                "name": "i4c-t0-crf"
+            }
+        ],
+        "metadata": {}
+    },
+    {
+        "entities": [
+            {
+                "type": "project",
+                "id": "2122-0105"
+            },
+            {
+                "type": "dataset",
+                "name": "phs-maternity"
+            }
+        ],
+        "metadata": {}
+    },
+    {
+        "entities": [
+            {
+                "type": "project",
+                "id": "2122-0105"
+            },
+            {
+                "type": "dataset",
+                "name": "phs-cancer"
+            }
+        ],
+        "metadata": {}
+    },
+    {
+        "entities": [
+            {
+                "type": "project",
+                "id": "2122-0105"
+            },
+            {
+                "type": "dataset",
+                "name": "phs-primary"
+            }
+        ],
+        "metadata": {}
+    }
+]

@@ -1,0 +1,23 @@
+- name: Host genetics
+  icon: flaticon-110-bars
+  img_src: /assets/img/art/s1.jpg
+  
+- name: Preparedness
+  icon: flaticon-002-globe
+  img_src: /assets/img/art/s2.jpg
+
+- name: New diseases
+  icon: flaticon-059-mobile-phone
+  img_src: /assets/img/art/s3.jpg
+
+- name: Engineering
+  icon: flaticon-005-exam
+  img_src: /assets/img/art/s4.jpg
+
+- name: Medicines
+  icon: flaticon-127-target
+  img_src: /assets/img/art/s5.jpg
+
+- name: Microtrials
+  icon: flaticon-073-speech
+  img_src: /assets/img/art/s6.jpg

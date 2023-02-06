@@ -1,0 +1,38 @@
+<div class="intro-content">
+    <div class="slider-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="slide-all-text">
+                        <!-- layer 1 -->
+                        <div class="layer-1 wow fadeInUp" data-wow-delay="0.3s">
+                            
+                            <h4 class="title-1">Fast, FAIR and SAFE clinical data science in outbreaks</h4>
+                        </div>
+
+                        <!-- layer 2 -->
+                        <div class="layer-2 wow fadeInUp" data-wow-delay="0.3s">
+                            <h2 class="title-2">UK-wide research data linkage</h2>
+                        </div>
+
+                        <!-- layer 3 -->
+                        <div class="layer-3 wow fadeInUp" data-wow-delay="0.7s">
+                            <a href="{{'/researchers'  | relative_url }}" class="ready-btn anti-btn">Access data</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="slide-images-inner wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="slide-images">
+                            {% if slide_img %}
+                            <img src="{{slide_img | relative_url }}" alt="">
+                            {% else %}
+                            <img src="{{'/assets/img/art/s1.png' | relative_url }}" alt="">
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

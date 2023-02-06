@@ -1,14 +1,18 @@
-# main links
-main:
-  - title: "Home"
-    url: /index/
-  - title: "Scope"
-    url: /scope/
-  - title: "PPIE"
-    url: /ppie/
-  - title: "About the Platform"
-    url: /platform/
-  - title: "Contact Us"
-    url: /contact/
-  - title: "Jobs"
-    url: /jobs/
+- text: Home
+  url: /#
+- text: For the public
+  url: /#
+  submenu:
+    - text: Public involvement
+      url: /ppie
+    - text: Privacy
+      url: /privacy
+- text: For researchers
+  url: /#
+  submenu:
+    - text: Overview
+      url: /researchers
+    - text: Scope
+      url: /scope
+- text: Contact us
+  url: /contact

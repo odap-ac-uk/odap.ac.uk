@@ -1,0 +1,25 @@
+<!-- start carousel -->
+<div class="project-carousel-2 owl-carousel owl-loaded owl-drag">
+    <div class="owl-stage-outer">
+        <div class="owl-stage"
+            style="transform: translate3d(-1298px, 0px, 0px); transition: all 0.25s ease 0s; width: 3031px;">
+            {% for project in site.projects %}
+            <div class="owl-item cloned" style="width: 402.993px; margin-right: 30px;">
+                {% if project.img_src %}
+                <div class="project-image">
+                    <img src="{{project.img_src | relative_url }}" alt="{{project.project_name}}" />
+                </div>
+                {% endif %}
+            </div>
+            <div class="project-dec">
+                <a href="{{project.url | relative_url}}">
+                    <h4>{{project.project_name}}</h4>
+                </a>
+            </div>
+            {% endfor %}
+    </div>
+    <div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><i
+                class="ti-angle-left"></i></button><button type="button" role="presentation" class="owl-next"><i
+                class="ti-angle-right"></i></button></div>
+    <div class="owl-dots disabled"></div>
+</div>

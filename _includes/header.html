@@ -1,0 +1,35 @@
+
+{% if page.home == 3 %}
+{% assign classes = 'header-area-2' %}
+{% elsif page.home == 4 %}
+{% assign classes = 'header-area-4' %}
+{% endif %}
+
+<!-- Start header -->
+
+<header class="header-one">
+    {% if page.home == 4 %}
+    {% include header-topbar.html %}
+    {% endif %}
+    <div id="sticker" class="header-menu-area header-area {{classes}}">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-2 col-lg-2 col-md-3 d-flex align-items-center">
+                    {% include logo.html %}
+                </div>
+                <div class="col-xl-10 col-lg-10 col-md-9">
+                    <div class="header_menu f-right">
+                        <nav id="mobile-menu">
+                            {% include navigation.html %}
+                        </nav>
+                    </div>
+                </div>
+                <div class="col-12">
+                    <div class="mobile-menu"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- End header area -->
+  

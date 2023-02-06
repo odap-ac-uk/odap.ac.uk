@@ -1,0 +1,63 @@
+---
+layout: default
+---
+<main>
+    <!-- Start Breadcrumb Area -->
+    <div class="page-area bread-pd">
+        <div class="breadcumb-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-title text-center">
+                        <h2>{{page.title}}</h2>
+                        <div class="bread-come">
+                            <nav aria-label="breadcrumb ">
+                                <ol class="breadcrumb purple lighten-4 justify-content-center">
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{'/' | relative_url}}">Home</a><i class="ti-angle-right"
+                                            aria-hidden="true"></i></li>
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{page.url | relative_url}}">{{page.title}}</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb Area -->
+    <!-- Start page Area -->
+    <div class="project-single bg-color-xs area-padding">
+        <div class="container">
+                {% if page.subtitle %}
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12">
+                        <div class="section-headline text-center">
+                            <span class="top-text">
+                                <i class="ti-layout"></i>
+                                <span>{{ page.subtitle }}</span>
+                            </span>
+                            {% if page.subtitle %}
+                            <p>{{ page.opener }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="row">
+                <div class="col-xl-12 col-lg-12 col-md-12">
+                    <div class="project-details">
+                        {{content}}
+                    </div>
+                </div>
+            </div>
+
+            <!-- End single page -->
+        </div>
+        <!-- End main content -->
+    </div>
+    <!-- End portfolio Area -->
+
+</main>
+

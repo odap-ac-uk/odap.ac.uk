@@ -1,0 +1,29 @@
+ <!-- Start project Area -->
+ <div class="project-area project-area-2 bg-color-xs area-padding-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+                <div class="section-headline text-center">
+                    <span class="top-text">
+                        <i class="ti-layout"></i>
+                        <span>Current projects</span>
+                    </span>
+                    <p>We give our scientists the freedom to create, innovate and fail. We drive the following key areas of research with an absolute focus on finding effective therapies.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+
+            <!-- single-awesome-project start -->
+
+            {% for project in site.projects %}
+                <div class="col-xl-4 col-lg-4 col-md-6">   
+                    {% include project-card.html %}
+                </div>
+            {% endfor %}
+
+        </div>
+    </div>
+    <!-- End main content -->
+</div>
+<!-- End project Area -->

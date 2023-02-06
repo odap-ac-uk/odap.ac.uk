@@ -1,8 +1,96 @@
+<!-- Start Footer Area -->
+<footer class="footer1">
+    <div class="footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-content logo-footer">
+                        <div class="footer-head">
+                            <div class="footer-logo">
+                                <a href="{{'/' | relative_url }}"><img
+                                        src="{{'/assets/img/logo/logo.png' | relative_url }}" alt="{{site.title}}"></a>
+                            </div>
+                            <p>
+                                Supporting the public health research response.
+                            </p>
+                            <!--
+                            <div class="subs-feilds">
+                                <form action="{{site.mailclimp}}" method="post" class="suscribe-input">
+                                    <input type="email" name="email" class="email form-control width-80" id="sus_email"
+                                        placeholder="Type Email">
+                                    <button type="submit" id="sus_submit" class="add-btn">Subscribe</button>
+                                </form>
+                            </div>
+                            -->
+                        </div>
+                    </div>
+                </div>
+                <!-- end single footer -->
 
-<div class="page__footer-copyright"> 
-    {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} 
-    <span class="align-right">
-        <a href="/index/">Home</a>
-        <!-- <a href="/privacy/">Privacy</a> -->
-    </span>
-</div>
+                <div class="col-md-2">
+                    <div class="footer-content">
+                        <div class="footer-head">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <!--
+                    <div class="footer-content">
+                        <div class="footer-head">
+                            <h4>Research Links</h4>
+                            <ul class="footer-list">
+                                {% for project in site.projects limit:4 %}
+                                <li><a href="{{project.url | relative_url}}">{{project.title}}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    -->
+                </div>
+                <!-- end single footer -->
+                <div class="col-md-3">
+                    <div class="footer-content last-content">
+                        <div class="footer-head">
+                            <h4>Find us</h4>
+                            <div class="footer-contacts">
+                                <p><span>Location:</span>Outbreak Data Analysis Platform (ODAP), Baillie Gifford Pandemic Science Hub, Floor 4, Institute for Regeneration and Repair Expansion Buidling, University of Edinburgh, Little France, Edinburgh, UK</p>
+                                <p><span>Email:</span> odap@ed.ac.uk</p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Start Footer Bottom Area -->
+    <!--
+    <div class="footer-area-bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="copyright">
+                        <p class="copyright-text m-0">©
+                            <script>
+                                document.write(new Date().getFullYear())
+                            </script>. Design with <i class="ti-heart text-success"></i> by
+                            <a class="text-success" href="https://themeix.com">themeix</a>.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6 col-md-6">
+                    <div class="footer-menu">
+                        <ul>
+                            <li><a href="{{'/about' | relative_url }}">About</a></li>
+                            <li><a href="#">Terms & Condition</a></li>
+                            <li><a href="#">Privacy</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    -->
+    <!-- End Footer Bottom Area -->
+</footer>
+<!-- End Footer Area -->

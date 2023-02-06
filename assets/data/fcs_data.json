@@ -1,0 +1,3707 @@
+[
+    {
+        "project_count": "1",
+        "projects": "coguk",
+        "n_participants": "40568"
+    },
+    {
+        "project_count": "1",
+        "projects": "genomicc_wgs",
+        "n_participants": "24562"
+    },
+    {
+        "project_count": "1",
+        "projects": "idamac_complement",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "1",
+        "projects": "phosp_genotyping",
+        "n_participants": "15"
+    },
+    {
+        "project_count": "1",
+        "projects": "phosp_longcovid",
+        "n_participants": "19"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp3_blood_viral_load",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp4_biochemistry",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp4_clinical_redcap_data",
+        "n_participants": "820"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp5_proteomics",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp6_nasosorption_mediators",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "1",
+        "projects": "wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,genomicc_wgs",
+        "n_participants": "1180"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,idamac_complement",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,wp3_blood_viral_load",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,wp4_clinical_redcap_data",
+        "n_participants": "292"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,wp5_proteomics",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "2",
+        "projects": "coguk,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "genomicc_wgs,idamac_complement",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "genomicc_wgs,phosp_genotyping",
+        "n_participants": "152"
+    },
+    {
+        "project_count": "2",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data",
+        "n_participants": "80"
+    },
+    {
+        "project_count": "2",
+        "projects": "genomicc_wgs,wp5_wgs",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "2",
+        "projects": "genomicc_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "idamac_complement,wp3_blood_viral_load",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "2",
+        "projects": "idamac_complement,wp4_clinical_redcap_data",
+        "n_participants": "51"
+    },
+    {
+        "project_count": "2",
+        "projects": "idamac_complement,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "idamac_complement,wp6_nasosorption_mediators",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "phosp_genotyping,phosp_longcovid",
+        "n_participants": "384"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp5_proteomics",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp3_blood_viral_load,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_biochemistry,wp4_clinical_redcap_data",
+        "n_participants": "16"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_biochemistry,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_biochemistry,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "41"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp4_clinical_redcap_data,wp7_serology_oral_fluids",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "2",
+        "projects": "wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data",
+        "n_participants": "21"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,idamac_complement,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp3_blood_viral_load,wp4_biochemistry",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp3_blood_viral_load,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "16"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "20"
+    },
+    {
+        "project_count": "3",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,idamac_complement,wp4_biochemistry",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data",
+        "n_participants": "11"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,idamac_complement,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "18"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "3",
+        "projects": "genomicc_wgs,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_biochemistry,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "idamac_complement,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp3_blood_viral_load,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_biochemistry,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "3",
+        "projects": "wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_biochemistry,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_rnaseq",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,idamac_complement,wp5_proteomics,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp5_wgs,wp6_anticytokineantibodies_iga",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_faecal_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "11"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "18"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "4",
+        "projects": "idamac_complement,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "11"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "17"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "4",
+        "projects": "wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_biochemistry,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp3_blood_viral_load,wp5_rnaseq,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "15"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_wgs,wp6_faecal_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp6_anticytokineantibodies_iga,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "5",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_biochemistry,wp5_rnaseq,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "coguk,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "13"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "idamac_complement,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "6",
+        "projects": "wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp5_wgs,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,genomicc_wgs,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "12"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "17"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "7",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "coguk,idamac_complement,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "9"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "12"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "21"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "8",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "9",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_serum",
+        "n_participants": "4"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "10",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "10",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "14"
+    },
+    {
+        "project_count": "10",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "coguk,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "11",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "11",
+        "projects": "idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "11",
+        "projects": "wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "2"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,genomicc_wgs,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "coguk,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_biochemistry,wp4_clinical_redcap_data,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "12",
+        "projects": "genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "3"
+    },
+    {
+        "project_count": "13",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "14",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_faecal_cytokines,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "14",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    },
+    {
+        "project_count": "15",
+        "projects": "coguk,genomicc_wgs,idamac_complement,wp3_blood_viral_load,wp4_clinical_redcap_data,wp5_proteomics,wp5_rnaseq,wp5_wgs,wp6_anticytokineantibodies_iga,wp6_anticytokineantibodies_igg,wp6_nasosorption_mediators,wp6_plasma_cytokines,wp7_serology_neutralisation,wp7_serology_oral_fluids,wp7_serology_serum",
+        "n_participants": "1"
+    }
+]

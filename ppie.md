@@ -1,6 +1,10 @@
 ---
 title: 'PPIE'
-layout: 'single'
+layout: page
+subtitle: Involving the public in every step
+opener: COVID-19 Variants and Outbreaks Prioritisation -- Patient and Public Involvement and Engagement
+img_src: assets/img/art/s3.png
+permalink: /ppie
 ---
 
 **Outbreak Data Analysis Platform** COVID-19 Variants and Outbreaks Prioritisation -- Patient and Public Involvement and Engagement

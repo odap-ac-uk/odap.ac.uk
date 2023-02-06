@@ -1,0 +1,30 @@
+[
+    {
+        "datasets": ["i4c-t0-crf", "i4c-t0-fu"],
+        "cases": 450
+    },
+    {
+        "datasets": ["i4c-t0-crf", "phosp-fu"],
+        "cases": 2187
+    },
+    {
+        "datasets": ["i4c-t0-crf", "phs-cancer"],
+        "cases": 30000
+    },
+    {
+        "datasets": ["i4c-t0-crf", "phs-maternity"],
+        "cases": 12000
+    },
+    {
+        "datasets": ["i4c-t0-crf", "phs-primary"],
+        "cases": 132000
+    },
+    {
+        "datasets": ["i4c-t0-crf", "mhsds"],
+        "cases": 1200
+    },
+    {
+        "datasets": ["i4c-t0-crf", "nda"],
+        "cases": 1876
+    }
+]

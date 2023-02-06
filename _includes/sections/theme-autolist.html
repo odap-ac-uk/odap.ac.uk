@@ -1,0 +1,8 @@
+
+<ul>
+{% for project in site.projects %}
+    {% if project.theme %}
+        <li>{{project.theme}}</li>
+    {% endif %}
+{% endfor %}
+</ul>
