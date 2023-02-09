@@ -12,5 +12,3 @@ permalink: /datasets
 
 <h3>Data availability and linkage within the National Safe Haven</h3>
 <p>Data currently in preparation</p>
-
-<div><a href="documents/culture.docx" >culture</a></div>
