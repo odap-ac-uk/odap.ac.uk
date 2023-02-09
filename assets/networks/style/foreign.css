@@ -1,0 +1,55 @@
+svg div {
+    font-family: sans-serif;
+    font-size: 10px;
+    text-align: center;
+    height: fit-content;
+    width: fit-content;
+    scrollbar-width: thin;
+    background-color: #fff8;
+    padding: 3px;
+}
+
+svg foreignObject:not(.active, .selected) div > p {
+    display: none;
+}
+/*
+svg foreignObject:hover div {
+    height: 100%;
+    overflow: overlay;
+}
+
+svg foreignObject:hover div > p {
+    display: block;
+}
+*/
+svg div::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    background-color: #ccc8;
+}
+
+svg div::-webkit-scrollbar-thumb {
+    background-color: #8888;
+}
+
+svg div > h3 {
+    margin: 0em;
+}
+
+button.close {
+    float: right;
+    display: none;
+}
+
+foreignObject.active > div {
+    background-color: #fff;
+}
+
+foreignObject.selected > div {
+    background-color: #fff;
+    border: 2px solid #00000048;
+}
+button.close:before {
+    content: "\274c";
+}
+
