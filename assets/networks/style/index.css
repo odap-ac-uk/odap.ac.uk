@@ -1,0 +1,22 @@
+
+#canvas-container {
+    width: 80%;
+    margin: auto;
+}
+
+svg use {
+    cursor: pointer;
+}
+
+#canvas-container {
+    text-align: center;
+}
+
+g.close {
+    cursor: pointer;
+}
+
+circle.selected {
+    stroke: #00000048;
+    stroke-width: 5px;
+}
