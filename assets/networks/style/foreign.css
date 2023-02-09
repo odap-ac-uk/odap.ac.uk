@@ -1,4 +1,4 @@
-svg div {
+#canvas > foreignObject > div > p {
     font-family: sans-serif;
     font-size: 10px;
     text-align: center;
@@ -7,6 +7,11 @@ svg div {
     scrollbar-width: thin;
     background-color: #fff8;
     padding: 3px;
+}
+
+#canvas > foreignObject > div > h3 {
+    font-size: 12px;
+    font-weight: bold;
 }
 
 svg foreignObject:not(.active, .selected) div > p {
@@ -32,7 +37,7 @@ svg div::-webkit-scrollbar-thumb {
     background-color: #8888;
 }
 
-svg div > h3 {
+#canvas div > h3 {
     margin: 0em;
 }
 
