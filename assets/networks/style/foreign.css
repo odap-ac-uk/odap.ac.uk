@@ -19,6 +19,7 @@
     font-size: 9px;
     font-weight: normal;
     line-height: 11px;
+    margin-bottom: 0;
 }
 
 svg foreignObject:not(.active, .selected) div > p {
