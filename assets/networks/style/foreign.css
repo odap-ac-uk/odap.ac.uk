@@ -15,6 +15,12 @@
     line-height: 15px;
 }
 
+#canvas > foreignObject > div > p {
+    font-size: 9px;
+    font-weight: normal;
+    line-height: 11px;
+}
+
 svg foreignObject:not(.active, .selected) div > p {
     display: none;
 }
