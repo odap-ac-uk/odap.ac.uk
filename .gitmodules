@@ -4,3 +4,6 @@
 [submodule "manual"]
 	path = manual
 	url = https://github.com/odap-ac-uk/manual
+[submodule "_outputs"]
+	path = _outputs
+	url = https://github.com/ed-psh/_outputs
