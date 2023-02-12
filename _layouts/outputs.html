@@ -32,6 +32,21 @@ layout: default
     <!-- End Breadcrumb Area -->
 
 <div class="container pt-6 pb-6">
+    {% if page.subtitle %}
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12">
+                <div class="section-headline text-center">
+                    <span class="top-text">
+                        <i class="ti-layout"></i>
+                        <span>{{ page.subtitle }}</span>
+                    </span>
+                    {% if page.subtitle %}
+                    <p>{{ page.opener }}</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    {% endif %}
   <div class="row">
     {% assign sortedoutputs = site.outputs | sort: "weight" %}
     {% for output in sortedoutputs %}
