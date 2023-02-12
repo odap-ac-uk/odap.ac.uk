@@ -35,3 +35,12 @@ collections:
   people:
     output: true
     permalink: /team/:path/
+  outputs:
+    output: true
+    permalink: /output/:path/
+
+defaults:
+  - scope:
+      type: outputs
+    values:
+      layout: output

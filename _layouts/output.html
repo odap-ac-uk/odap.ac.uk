@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<main>
+    <!-- Start Breadcrumb Area -->
+    <div class="page-area bread-pd">
+        <div class="breadcumb-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-title text-center">
+                        <h2>{{page.title}}</h2>
+                        <div class="bread-come">
+                            <nav aria-label="breadcrumb ">
+                                <ol class="breadcrumb purple lighten-4 justify-content-center">
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{'/' | relative_url}}">Home</a><i class="ti-angle-right"
+                                            aria-hidden="true"></i></li>
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{page.url | relative_url}}">{{page.title}}</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb Area -->
+<!-- Start page Area -->
+    <div class="project-single bg-color-xs area-padding">
+        <div class="container">
+                {% if page.subtitle %}
+                <div class="row">
+                    <div class="col-xl-12 col-lg-12 col-md-12">
+                        <div class="section-headline text-center">
+                            <span class="top-text">
+                                <i class="ti-layout"></i>
+                                <span>{{ page.subtitle }}</span>
+                            </span>
+                            {% if page.subtitle %}
+                            <p>{{ page.opener }}</p>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+                {% endif %}
+                <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-5">
+                    {% if page.img_src %}
+                    <div class="feature-image"> <!-- ab-image project-image feature-image -->
+                        <img src="{{page.img_src | relative_url }}" alt="{{page.title}}">
+                    </div>
+                    {% endif %}
+                </div>
+                <!-- End Column -->
+                <div class="col-xl-8 col-lg-8 col-md-7">
+                          {% if page.doi %}
+                            <div class="altmetric-embed" data-badge-type="donut" data-doi="{{page.doi}}"></div>
+                            {% if page.journal %}
+                              <a href="{{page.doi}}">{{page.journal}} 
+                              {% if page.month %}
+                                {{page.month}} 
+                                {% if page.year %}
+                                  {{page.year}} 
+                                {% endif %}
+                              {% endif %}
+                              </a>
+                            {% endif %}
+                          {% endif %}
+                    <div class="project-details">
+                        {{content}}
+                    </div>
+                </div>
+            </div>
+
+            <!-- End single page -->
+        </div>
+        <!-- End main content -->
+    </div>
+    <!-- End portfolio Area -->
+
+</main>
+
+
+
+
+
+
+
+
+
+
+

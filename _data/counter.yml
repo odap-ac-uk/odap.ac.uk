@@ -1,8 +1,11 @@
-- title: Applications
-  counter_up: 93
-
-- title: Researchers
-  counter_up: 39
+- title: Applications processed
+  counter_up: 116
 
 - title: Publications
-  counter_up: 112
+  counter_up: 101
+
+- title: Users
+  counter_up: 39
+
+- title: Institutions
+  counter_up: 12

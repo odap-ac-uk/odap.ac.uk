@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+---
+layout: default
+---
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
+<main>
+    <!-- Start Breadcrumb Area -->
+    <div class="page-area bread-pd">
+        <div class="breadcumb-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-title text-center">
+                        <h2>{{page.title}}</h2>
+                        <div class="bread-come">
+                            <nav aria-label="breadcrumb ">
+                                <ol class="breadcrumb purple lighten-4 justify-content-center">
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{'/' | relative_url}}">Home</a><i class="ti-angle-right"
+                                            aria-hidden="true"></i></li>
+                                    <li class="breadcrumb-items"><a class="black-text"
+                                            href="{{page.url | relative_url}}">{{page.title}}</a></li>
+                                </ol>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb Area -->
+
+<div class="container pt-6 pb-6">
+  <div class="row">
+    {% assign sortedoutputs = site.outputs | sort: "weight" %}
+    {% for output in sortedoutputs %}
+    {% if output.projects contains page.project %}
+    <div class="col-12 col-md-6 mb-3">
+      <div class="output output-summary">
+        <div class="output-content">
+          <h4 class="output-title">
+            <a href="{{site.baseurl}}{{ output.url }}">{{ output.title }}</a>
+          </h4>
+          {% if output.doi %}
+            {% if output.journal %}
+              <a href="{{output.doi}}">{{output.journal}} 
+              {% if output.month %}
+                {{output.month}} 
+                {% if output.year %}
+                  {{output.year}} 
+                {% endif %}
+              {% endif %}
+              </a>
+            {% endif %}
+          {% endif %}
+          <p>{{ output.content | markdownify | strip_html | truncate: 250 }}</p>
+        {% if output.doi %}
+          <div class="altmetric-embed" data-badge-type="donut" data-doi="{{output.doi}}"></div>
+        {% endif %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</div>

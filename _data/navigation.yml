@@ -14,5 +14,7 @@
       url: /researchers
     - text: Scope
       url: /scope
+- text: Outputs
+  url: /outputs
 - text: Contact us
   url: /contact
