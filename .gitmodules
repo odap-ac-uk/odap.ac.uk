@@ -1,6 +1,3 @@
-[submodule "manual.git"]
-	path = manual
-	url = https://github.com/odap-ac-uk/manual.git
 [submodule "manual"]
 	path = manual
 	url = https://github.com/odap-ac-uk/manual
