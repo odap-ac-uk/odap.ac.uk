@@ -1,0 +1,1742 @@
+[
+    {
+        "dataset_count": "1",
+        "projects": "deaths",
+        "n_patients": "1512"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "prescribing",
+        "n_patients": "120428"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "primary_care",
+        "n_patients": "214612"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "sicsag",
+        "n_patients": "21"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "smr00",
+        "n_patients": "263454"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "smr01",
+        "n_patients": "148475"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "smr02",
+        "n_patients": "4544"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "smr06",
+        "n_patients": "1889"
+    },
+    {
+        "dataset_count": "1",
+        "projects": "testing",
+        "n_patients": "79968"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, prescribing",
+        "n_patients": "1062"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, primary_care",
+        "n_patients": "285"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, sicsag",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, smr00",
+        "n_patients": "541"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, smr01",
+        "n_patients": "806"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, smr06",
+        "n_patients": "24"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "deaths, testing",
+        "n_patients": "160"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, primary_care",
+        "n_patients": "182880"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, sicsag",
+        "n_patients": "4"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, smr00",
+        "n_patients": "59836"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, smr01",
+        "n_patients": "9368"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, smr02",
+        "n_patients": "542"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, smr06",
+        "n_patients": "51"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "prescribing, testing",
+        "n_patients": "62303"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, sicsag",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, smr00",
+        "n_patients": "51524"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, smr01",
+        "n_patients": "8621"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, smr02",
+        "n_patients": "364"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, smr06",
+        "n_patients": "36"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "primary_care, testing",
+        "n_patients": "58133"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "sicsag, smr00",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "sicsag, smr01",
+        "n_patients": "143"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "sicsag, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "sicsag, testing",
+        "n_patients": "29"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr00, smr01",
+        "n_patients": "630333"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr00, smr02",
+        "n_patients": "25063"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr00, smr06",
+        "n_patients": "4602"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr00, testing",
+        "n_patients": "15361"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr01, smr02",
+        "n_patients": "451"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr01, smr06",
+        "n_patients": "17325"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr01, testing",
+        "n_patients": "6217"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr02, smr06",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr02, testing",
+        "n_patients": "142"
+    },
+    {
+        "dataset_count": "2",
+        "projects": "smr06, testing",
+        "n_patients": "15"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, primary_care",
+        "n_patients": "719"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, smr00",
+        "n_patients": "3384"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, smr01",
+        "n_patients": "2274"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, smr02",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, smr06",
+        "n_patients": "66"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, prescribing, testing",
+        "n_patients": "57"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, primary_care, smr00",
+        "n_patients": "183"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, primary_care, smr01",
+        "n_patients": "103"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, primary_care, smr06",
+        "n_patients": "8"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, primary_care, testing",
+        "n_patients": "42"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, sicsag, smr01",
+        "n_patients": "30"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, sicsag, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr00, smr01",
+        "n_patients": "3771"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr00, smr02",
+        "n_patients": "16"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr00, smr06",
+        "n_patients": "24"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr00, testing",
+        "n_patients": "23"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr01, smr06",
+        "n_patients": "120"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr01, testing",
+        "n_patients": "108"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "deaths, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, sicsag",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, smr00",
+        "n_patients": "252077"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, smr01",
+        "n_patients": "31698"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, smr02",
+        "n_patients": "990"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, smr06",
+        "n_patients": "170"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, primary_care, testing",
+        "n_patients": "291161"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, sicsag, smr00",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, sicsag, smr01",
+        "n_patients": "9"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, sicsag, smr02",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, sicsag, testing",
+        "n_patients": "18"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr00, smr01",
+        "n_patients": "58299"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr00, smr02",
+        "n_patients": "5535"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr00, smr06",
+        "n_patients": "582"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr00, testing",
+        "n_patients": "48230"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr01, smr02",
+        "n_patients": "39"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr01, smr06",
+        "n_patients": "70"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr01, testing",
+        "n_patients": "15337"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr02, smr06",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr02, testing",
+        "n_patients": "238"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "prescribing, smr06, testing",
+        "n_patients": "20"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, sicsag, smr00",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, sicsag, smr01",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, sicsag, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, sicsag, testing",
+        "n_patients": "6"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr00, smr01",
+        "n_patients": "40085"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr00, smr02",
+        "n_patients": "3005"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr00, smr06",
+        "n_patients": "330"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr00, testing",
+        "n_patients": "40311"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr01, smr02",
+        "n_patients": "37"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr01, smr06",
+        "n_patients": "22"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr01, testing",
+        "n_patients": "6602"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr02, testing",
+        "n_patients": "177"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "primary_care, smr06, testing",
+        "n_patients": "23"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "sicsag, smr00, smr01",
+        "n_patients": "50"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "sicsag, smr00, smr02",
+        "n_patients": "6"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "sicsag, smr00, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "sicsag, smr01, testing",
+        "n_patients": "186"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr01, smr02",
+        "n_patients": "16559"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr01, smr06",
+        "n_patients": "324747"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr01, testing",
+        "n_patients": "13245"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr02, smr06",
+        "n_patients": "314"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr02, testing",
+        "n_patients": "1135"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr00, smr06, testing",
+        "n_patients": "105"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr01, smr02, smr06",
+        "n_patients": "8"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr01, smr02, testing",
+        "n_patients": "17"
+    },
+    {
+        "dataset_count": "3",
+        "projects": "smr01, smr06, testing",
+        "n_patients": "12"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, sicsag",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, smr00",
+        "n_patients": "2558"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, smr01",
+        "n_patients": "766"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, smr02",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, smr06",
+        "n_patients": "36"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, primary_care, testing",
+        "n_patients": "215"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, sicsag, smr01",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, sicsag, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr00, smr01",
+        "n_patients": "114200"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr00, smr02",
+        "n_patients": "71"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr00, smr06",
+        "n_patients": "482"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr00, testing",
+        "n_patients": "75"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr01, smr02",
+        "n_patients": "4"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr01, smr06",
+        "n_patients": "604"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, prescribing, smr01, testing",
+        "n_patients": "149"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, sicsag, smr01",
+        "n_patients": "21"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr00, smr01",
+        "n_patients": "342"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr00, smr02",
+        "n_patients": "6"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr00, smr06",
+        "n_patients": "10"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr00, testing",
+        "n_patients": "33"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr01, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr01, smr06",
+        "n_patients": "18"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr01, testing",
+        "n_patients": "46"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, primary_care, smr06, testing",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, sicsag, smr00, smr01",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, sicsag, smr00, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, sicsag, smr01, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, sicsag, smr01, testing",
+        "n_patients": "45"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, smr00, smr01, smr02",
+        "n_patients": "58"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, smr00, smr01, smr06",
+        "n_patients": "1642"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, smr00, smr01, testing",
+        "n_patients": "93"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "deaths, smr01, smr06, testing",
+        "n_patients": "11"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, sicsag, smr00",
+        "n_patients": "38"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, sicsag, smr01",
+        "n_patients": "68"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, sicsag, smr02",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, sicsag, testing",
+        "n_patients": "35"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr00, smr01",
+        "n_patients": "559658"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr00, smr02",
+        "n_patients": "26735"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr00, smr06",
+        "n_patients": "5479"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr00, testing",
+        "n_patients": "673712"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr01, smr02",
+        "n_patients": "164"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr01, smr06",
+        "n_patients": "103"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr01, testing",
+        "n_patients": "94871"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr02, smr06",
+        "n_patients": "10"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr02, testing",
+        "n_patients": "2489"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, primary_care, smr06, testing",
+        "n_patients": "318"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr00, smr01",
+        "n_patients": "221"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr00, smr02",
+        "n_patients": "34"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr00, testing",
+        "n_patients": "25"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr01, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr01, testing",
+        "n_patients": "96"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, sicsag, smr02, testing",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr01, smr02",
+        "n_patients": "5681"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr01, smr06",
+        "n_patients": "7410"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr01, testing",
+        "n_patients": "98485"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr02, smr06",
+        "n_patients": "86"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr02, testing",
+        "n_patients": "7100"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr00, smr06, testing",
+        "n_patients": "450"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr01, smr02, testing",
+        "n_patients": "39"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr01, smr06, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "prescribing, smr02, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, sicsag, smr00, smr01",
+        "n_patients": "29"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, sicsag, smr00, testing",
+        "n_patients": "10"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, sicsag, smr01, testing",
+        "n_patients": "34"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr01, smr02",
+        "n_patients": "1953"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr01, smr06",
+        "n_patients": "1330"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr01, testing",
+        "n_patients": "43004"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr02, smr06",
+        "n_patients": "45"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr02, testing",
+        "n_patients": "3022"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr00, smr06, testing",
+        "n_patients": "358"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr01, smr02, testing",
+        "n_patients": "19"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "primary_care, smr01, smr06, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "sicsag, smr00, smr01, smr02",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "sicsag, smr00, smr01, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "sicsag, smr00, smr01, testing",
+        "n_patients": "170"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "sicsag, smr00, smr02, testing",
+        "n_patients": "10"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "sicsag, smr01, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "smr00, smr01, smr02, smr06",
+        "n_patients": "2165"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "smr00, smr01, smr02, testing",
+        "n_patients": "719"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "smr00, smr01, smr06, testing",
+        "n_patients": "334"
+    },
+    {
+        "dataset_count": "4",
+        "projects": "smr00, smr02, smr06, testing",
+        "n_patients": "18"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01",
+        "n_patients": "102"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, sicsag, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01",
+        "n_patients": "47272"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr00, smr02",
+        "n_patients": "63"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr00, smr06",
+        "n_patients": "341"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr00, testing",
+        "n_patients": "961"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr01, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr01, smr06",
+        "n_patients": "168"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr01, testing",
+        "n_patients": "740"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, primary_care, smr06, testing",
+        "n_patients": "6"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01",
+        "n_patients": "175"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, sicsag, smr01, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, sicsag, smr01, testing",
+        "n_patients": "30"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr01, smr02",
+        "n_patients": "1608"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr01, smr06",
+        "n_patients": "100065"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr01, testing",
+        "n_patients": "2698"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr02, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr02, testing",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr00, smr06, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr01, smr02, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, prescribing, smr01, smr06, testing",
+        "n_patients": "38"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01",
+        "n_patients": "43"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, sicsag, smr00, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, sicsag, smr01, smr06",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, sicsag, smr01, testing",
+        "n_patients": "50"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr00, smr01, smr02",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr00, smr01, smr06",
+        "n_patients": "72"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr00, smr01, testing",
+        "n_patients": "122"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr00, smr02, testing",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr00, smr06, testing",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, primary_care, smr01, smr06, testing",
+        "n_patients": "16"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, sicsag, smr00, smr01, smr06",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, sicsag, smr00, smr01, testing",
+        "n_patients": "44"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, sicsag, smr01, smr06, testing",
+        "n_patients": "7"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, smr00, smr01, smr02, smr06",
+        "n_patients": "13"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "deaths, smr00, smr01, smr06, testing",
+        "n_patients": "31"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01",
+        "n_patients": "3820"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr02",
+        "n_patients": "185"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr00, testing",
+        "n_patients": "218"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr01, smr02",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr01, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr01, testing",
+        "n_patients": "398"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, sicsag, smr02, testing",
+        "n_patients": "13"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr01, smr02",
+        "n_patients": "53082"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr01, smr06",
+        "n_patients": "72854"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr01, testing",
+        "n_patients": "1888658"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr02, smr06",
+        "n_patients": "1012"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr02, testing",
+        "n_patients": "137474"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr00, smr06, testing",
+        "n_patients": "11095"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr01, smr02, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr01, smr02, testing",
+        "n_patients": "661"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr01, smr06, testing",
+        "n_patients": "204"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, primary_care, smr02, smr06, testing",
+        "n_patients": "17"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr00, smr01, smr02",
+        "n_patients": "12"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr00, smr01, smr06",
+        "n_patients": "65"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr00, smr01, testing",
+        "n_patients": "2507"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr00, smr02, testing",
+        "n_patients": "123"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr01, smr02, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, sicsag, smr01, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, smr00, smr01, smr02, smr06",
+        "n_patients": "420"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, smr00, smr01, smr02, testing",
+        "n_patients": "17540"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, smr00, smr01, smr06, testing",
+        "n_patients": "7799"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "prescribing, smr00, smr02, smr06, testing",
+        "n_patients": "215"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, sicsag, smr00, smr01, smr02",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, sicsag, smr00, smr01, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, sicsag, smr00, smr01, testing",
+        "n_patients": "184"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, sicsag, smr00, smr02, testing",
+        "n_patients": "8"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, smr00, smr01, smr02, smr06",
+        "n_patients": "112"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, smr00, smr01, smr02, testing",
+        "n_patients": "2395"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, smr00, smr01, smr06, testing",
+        "n_patients": "1059"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "primary_care, smr00, smr02, smr06, testing",
+        "n_patients": "111"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "14"
+    },
+    {
+        "dataset_count": "5",
+        "projects": "smr00, smr01, smr02, smr06, testing",
+        "n_patients": "46"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01",
+        "n_patients": "3832"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, testing",
+        "n_patients": "30"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01, smr02",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01, smr06",
+        "n_patients": "18"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01, testing",
+        "n_patients": "257"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr02",
+        "n_patients": "937"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr06",
+        "n_patients": "38293"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, testing",
+        "n_patients": "60780"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr02, smr06",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr02, testing",
+        "n_patients": "40"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr00, smr06, testing",
+        "n_patients": "101"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr01, smr02, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr01, smr02, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, primary_care, smr01, smr06, testing",
+        "n_patients": "210"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr02",
+        "n_patients": "10"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr06",
+        "n_patients": "101"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, testing",
+        "n_patients": "539"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, sicsag, smr00, smr02, smr06",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, sicsag, smr01, smr06, testing",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, smr00, smr01, smr02, smr06",
+        "n_patients": "1271"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, smr00, smr01, smr02, testing",
+        "n_patients": "34"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, prescribing, smr00, smr01, smr06, testing",
+        "n_patients": "2013"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01, smr02",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01, testing",
+        "n_patients": "60"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, sicsag, smr01, smr06, testing",
+        "n_patients": "9"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, smr00, smr01, smr02, smr06",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, smr00, smr01, smr02, testing",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, primary_care, smr00, smr01, smr06, testing",
+        "n_patients": "48"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "deaths, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr02",
+        "n_patients": "438"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr06",
+        "n_patients": "1318"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_patients": "44136"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr02, smr06",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr02, testing",
+        "n_patients": "1066"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr06, testing",
+        "n_patients": "12"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr01, smr02, testing",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, sicsag, smr01, smr06, testing",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, smr00, smr01, smr02, smr06",
+        "n_patients": "5443"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_patients": "415103"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_patients": "214869"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, smr00, smr02, smr06, testing",
+        "n_patients": "6569"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, primary_care, smr01, smr02, smr06, testing",
+        "n_patients": "9"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, sicsag, smr00, smr01, smr02, smr06",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "393"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "673"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, sicsag, smr00, smr02, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "prescribing, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "1781"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "6"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "15"
+    },
+    {
+        "dataset_count": "6",
+        "projects": "primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "193"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr02",
+        "n_patients": "188"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr06",
+        "n_patients": "2599"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_patients": "11440"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01, smr02, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr01, smr06, testing",
+        "n_patients": "23"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr02, smr06",
+        "n_patients": "607"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_patients": "765"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_patients": "52678"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, primary_care, smr00, smr02, smr06, testing",
+        "n_patients": "2"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr02, smr06",
+        "n_patients": "5"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "28"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "347"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, prescribing, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "28"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "3"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "deaths, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "9"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06",
+        "n_patients": "65"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "7876"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "17717"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr02, smr06, testing",
+        "n_patients": "27"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "46044"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "prescribing, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "74"
+    },
+    {
+        "dataset_count": "7",
+        "projects": "primary_care, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "1"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06",
+        "n_patients": "88"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_patients": "671"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_patients": "7987"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "deaths, prescribing, primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "874"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "deaths, prescribing, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "9"
+    },
+    {
+        "dataset_count": "8",
+        "projects": "prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "1488"
+    },
+    {
+        "dataset_count": "9",
+        "projects": "deaths, prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_patients": "338"
+    }
+]

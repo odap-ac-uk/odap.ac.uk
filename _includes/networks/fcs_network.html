@@ -4,10 +4,26 @@
             <svg xmlns="http://www.w3.org/2000/svg" id="jar" width="10" height="11.5" viewBox="0 0 10 11.5" preserveAspectRatio="none">
                 <path stroke-linejoin="bevel" d="M 0 2 L 0 9 Q 5 13 10 9 L 10 2 Q 5 -1 0 2 Q 5 5 10 2" />
             </svg>
+            <linearGradient id="background">
+                <stop offset="45%" stop-color="#b3e3cd80"></stop>
+                <stop offset="55%" stop-color="#b3cde380"></stop>
+            </linearGradient>
         </defs>
-        <rect id="svg-background" x="0" y="0" width="1168" height="700" stroke="none" fill="#b3cde380" />
-        <g id="nsh_net" width="500" height="640"></g>
-        <g id="fcs_net" width="500" height="640" transform="translate(524, 0)"></g>
+        <rect id="svg-background" x="0" y="0" width="1168" height="700" stroke="none" fill="url('#background')" />
+        <g id="nsh_net" width="500" height="640" transform="translate(50,0)">
+            <foreignObject x="200" overflow="visible">
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <h2>National Safe Haven</h2>
+                </div>
+            </foreignObject>
+        </g>
+        <g id="fcs_net" width="500" height="640" transform="translate(524, 0)">
+            <foreignObject x="200" overflow="visible">
+                <div xmlns="http://www.w3.org/1999/xhtml">
+                    <h2>Flexible Compute Space</h2>
+                </div>
+            </foreignObject>
+        </g>
 </svg>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/d3-dispatch@3"></script>

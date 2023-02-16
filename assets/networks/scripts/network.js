@@ -84,6 +84,13 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
         let u;
         data.color = data.color || colors[data.index%colors.length] || "grey";
         const subnodes = [];
+
+        if (data.nodes?.length == 1) {
+            data.nodes[0].x = data.x;
+            data.nodes[0].y = data.y;
+            data = data.nodes[0];
+        }
+
         if (data.nodes) {
             u = document.createElementNS("http://www.w3.org/2000/svg", "use");
             u.setAttribute("href", "#jar");
@@ -144,11 +151,12 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
                 resizeBounds();
 
                 // pack using forces:
+                console.log(data.x, network.refsize/10)
                 sim.force("restrain", null);
-                sim.force("restrain", forceRestrain(data.x, data.y));
+                sim.force("restrain", forceRestrain(Math.max(data.x, network.refsize/10), data.y));
 
                 sim.force("collide", null);
-                sim.force("collide", d3.forceCollide(function(n) { return n.radius * (1.5); }).iterations(2))
+                sim.force("collide", d3.forceCollide(function(n) { return n.radius + subnodes.length; }).iterations(2))
 
                 sim.alphaMin(1/(subnodes.length*5));
 
@@ -223,7 +231,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
         let title = document.createElementNS("http://www.w3.org/2000/svg", "foreignObject");
         title.insertAdjacentHTML("afterbegin",`
                 <div xmlns="http://www.w3.org/1999/xhtml">
-                    <h3>${data.name.replaceAll("_", " ")}</h3>
+                    <h3>${data.label || data.name.replaceAll("_", " ")}</h3>
                     <p>${data.n} patients.</p>
                 </div>
             `);
@@ -323,7 +331,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
         path.setAttribute("stroke", `url('#${linkid}')`);
         path.setAttribute("stroke-width", scale(weight/maxw) * Math.sqrt(network.refsize*Math.PI));
 
-        path.setAttribute("opacity", Math.sqrt(scale(weight/(maxw*2))));
+        path.setAttribute("opacity", Math.max(0.5, Math.sqrt(scale(weight/(maxw*2)))));
         // we always want links under all elements, so push to the top of the svg stack.
         element.insertAdjacentElement("afterbegin", path);
 
@@ -372,7 +380,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
     
     network.nodes = nodes.map(n => createNode(n));
     
-    network.edges = edges.map(e => createEdge(search(network.nodes, e.nodes[0]), search(network.nodes, e.nodes[1]), e.weight));
+    network.edges = edges.map(e => createEdge(search(network.nodes, e.nodes[0]), search(network.nodes, e.nodes[1]), e.weight)).filter(e => e);
 
     network.show = () => { element.removeAttribute("visibility") }
     network.hide = () => { element.setAttribute("visibility", "hidden") }

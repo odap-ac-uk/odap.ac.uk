@@ -1,0 +1,477 @@
+[
+    {
+        "project_count": "3",
+        "projects": "deaths, isaric, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "3",
+        "projects": "isaric, prescribing, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "3",
+        "projects": "isaric, sicsag, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "3",
+        "projects": "isaric, smr01, testing",
+        "n_participants": "15"
+    },
+    {
+        "project_count": "4",
+        "projects": "deaths, isaric, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, prescribing, primary_care, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, prescribing, smr00, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, prescribing, smr01, testing",
+        "n_participants": "61"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, primary_care, smr01, testing",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, sicsag, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, smr00, smr01, smr02",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, smr00, smr01, testing",
+        "n_participants": "14"
+    },
+    {
+        "project_count": "4",
+        "projects": "isaric, smr00, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "deaths, isaric, prescribing, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "deaths, isaric, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, primary_care, smr00, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, primary_care, smr00, testing",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, primary_care, smr01, testing",
+        "n_participants": "51"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, sicsag, smr00, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, sicsag, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, smr00, smr01, testing",
+        "n_participants": "232"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, prescribing, smr00, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, primary_care, sicsag, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, primary_care, smr00, smr01, testing",
+        "n_participants": "12"
+    },
+    {
+        "project_count": "5",
+        "projects": "isaric, sicsag, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "5",
+        "projects": "phosp, primary_care, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, prescribing, primary_care, smr01, testing",
+        "n_participants": "19"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, prescribing, sicsag, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, prescribing, smr00, smr01, testing",
+        "n_participants": "84"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, primary_care, sicsag, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, sicsag, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, sicsag, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "deaths, isaric, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, primary_care, sicsag, smr01, testing",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "2684"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, primary_care, smr00, smr02, testing",
+        "n_participants": "7"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, primary_care, smr00, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, primary_care, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, sicsag, smr00, smr01, testing",
+        "n_participants": "47"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, smr00, smr01, smr02, testing",
+        "n_participants": "17"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, prescribing, smr00, smr01, smr06, testing",
+        "n_participants": "23"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "isaric, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "6",
+        "projects": "phosp, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "81"
+    },
+    {
+        "project_count": "6",
+        "projects": "phosp, prescribing, sicsag, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr01, testing",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01, smr06",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "1360"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, primary_care, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, sicsag, smr00, smr01, testing",
+        "n_participants": "21"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, prescribing, smr00, smr01, smr06, testing",
+        "n_participants": "50"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, isaric, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "deaths, phosp, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, phosp, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "29"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "787"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "335"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "588"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "7",
+        "projects": "isaric, prescribing, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "7",
+        "projects": "phosp, prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "62"
+    },
+    {
+        "project_count": "7",
+        "projects": "phosp, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "20"
+    },
+    {
+        "project_count": "7",
+        "projects": "phosp, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "15"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, phosp, prescribing, primary_care, smr00, smr01, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "452"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "859"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "10"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, isaric, prescribing, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, phosp, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "deaths, phosp, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, phosp, prescribing, primary_care, sicsag, smr00, smr01, testing",
+        "n_participants": "22"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, phosp, prescribing, primary_care, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, phosp, prescribing, primary_care, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "91"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "169"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, prescribing, primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "35"
+    },
+    {
+        "project_count": "8",
+        "projects": "isaric, prescribing, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "8",
+        "projects": "phosp, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "6"
+    },
+    {
+        "project_count": "8",
+        "projects": "phosp, prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "12"
+    },
+    {
+        "project_count": "8",
+        "projects": "phosp, prescribing, primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "9",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "20"
+    },
+    {
+        "project_count": "9",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "186"
+    },
+    {
+        "project_count": "9",
+        "projects": "deaths, isaric, prescribing, primary_care, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "8"
+    },
+    {
+        "project_count": "9",
+        "projects": "deaths, phosp, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "9",
+        "projects": "isaric, phosp, prescribing, primary_care, sicsag, smr00, smr01, smr02, testing",
+        "n_participants": "5"
+    },
+    {
+        "project_count": "9",
+        "projects": "isaric, phosp, prescribing, primary_care, sicsag, smr00, smr01, smr06, testing",
+        "n_participants": "<5"
+    },
+    {
+        "project_count": "9",
+        "projects": "isaric, prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "12"
+    },
+    {
+        "project_count": "10",
+        "projects": "deaths, isaric, prescribing, primary_care, sicsag, smr00, smr01, smr02, smr06, testing",
+        "n_participants": "7"
+    }
+]
