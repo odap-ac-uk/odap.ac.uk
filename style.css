@@ -3,6 +3,7 @@ Color changes made by Kenny 2023-02-05
 #017BFF ==> #E72A2A
 #d6e8fb ==> #FAAFAD
 #0A0653 ==> #b72121
+#EDF9FF 
 
 
 /*-----------------------------------------------------------------------------------
@@ -48,7 +49,7 @@ Color changes made by Kenny 2023-02-05
     26. Blog Sidebar Area
     27. Blog Details
     28. Project Details page
-    29.	Contact Us  CSS
+    29. Contact Us  CSS
     30. Login And Register page
 
 
@@ -4091,7 +4092,7 @@ span.email-notes {
 }
 
 /*----------------------------------------*/
-/*  29.	Contact Us  CSS
+/*  29. Contact Us  CSS
 /*----------------------------------------*/
 .contact-page {
   margin-bottom: 100px;
