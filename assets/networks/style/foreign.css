@@ -1,4 +1,4 @@
-#canvas > foreignObject > div {
+#canvas foreignObject > div {
     font-family: sans-serif;
     font-size: 10px;
     text-align: center;
@@ -9,13 +9,13 @@
     padding: 3px;
 }
 
-#canvas > foreignObject > div > h3 {
+#canvas foreignObject > div > h3 {
     font-size: 12px;
     font-weight: bold;
     line-height: 15px;
 }
 
-#canvas > foreignObject > div > p {
+#canvas foreignObject > div > p {
     font-size: 9px;
     font-weight: normal;
     line-height: 11px;
