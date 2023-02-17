@@ -34,7 +34,6 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
     const maxw = defaults.maxw || Math.max(...edges.map(e => e.weight));
     const scale = defaults.scale;
 
-    console.log(maxn, maxw)
     ////////////        UTILITY FUNCTIONS        //////////////////
 
     const forceRestrain = function(x, y, strength=1) {
@@ -164,7 +163,6 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
                 resizeBounds();
 
                 // pack using forces:
-                console.log(data.x, network.refsize/10)
                 sim.force("restrain", null);
                 sim.force("restrain", forceRestrain(Math.max(data.x, network.refsize/10), data.y));
 
@@ -266,6 +264,7 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
         })
 
         title.addEventListener("click", e => {
+            e.stopPropagation();
             u.dispatchEvent(new MouseEvent("click"));
         })
 

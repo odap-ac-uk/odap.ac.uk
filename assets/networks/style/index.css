@@ -3,7 +3,7 @@
     margin: auto;
 }
 
-svg use {
+svg use, svg circle {
     cursor: pointer;
 }
 
