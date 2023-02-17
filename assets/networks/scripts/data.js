@@ -110,6 +110,11 @@ export async function nsh_data() {
             label: "NHS Digital",
             ds: ["Deaths","AE","ECDS","CHESS","SGSS","Pillar 2","Vaccination Status","Vaccination Adverse Reactions","GP","NDA","IAPT","MHS"
             ]
+        },
+        {
+            name: "recovery",
+            label: "RECOVERY-ISARIC",
+            ds: []
         }
     ]
 
@@ -131,6 +136,10 @@ export async function nsh_data() {
             for (let node of n.nodes) {
                 node.n = nhsd.find(e => e.ds == node.name)?.n;
             }
+        } else if (n.name == "recovery") {
+            n.n = 277398;
+            n.nodes.push({ name: "reco-isaric", label: "isaric (recovery)", n: 277398 });
+            n.nodes.push({name: "reco-recovery", label: "Recovery", n: 300 });
         } else {
             cohorts.filter(c => c.ds.some(ds => n.nodes.find(sn => sn.name == ds))).forEach(cohort => {
                 n.n += cohort.n
@@ -167,9 +176,13 @@ export async function nsh_data() {
 
             // map linkage between datasets, and also to their respective sources
             maplink(first, next, c.n);
-            maplink(first_src, next, c.n);
-            maplink(first, next_src, c.n);
-            maplink(first_src, next_src, c.n);
+
+            // don't map source links if the datasets have the same source!
+            if (first_src != next_src) {
+                maplink(first_src, next, c.n);
+                maplink(first, next_src, c.n);
+                maplink(first_src, next_src, c.n);
+            }
         }
     }
 
@@ -203,9 +216,12 @@ export async function nsh_data() {
         
             // map linkage between datasets, and also to their respective sources
             mapc19mainlink(first, next, c.n);
-            mapc19mainlink(first_src, next, c.n);
-            mapc19mainlink(first, next_src, c.n);
-            mapc19mainlink(first_src, next_src, c.n);
+
+            if (first_src != next_src) {
+                mapc19mainlink(first_src, next, c.n);
+                mapc19mainlink(first, next_src, c.n);
+                mapc19mainlink(first_src, next_src, c.n);
+            }
         }
     }
 
@@ -217,6 +233,7 @@ export async function nsh_data() {
     network.edges.push({ nodes: ["nhsd", "isaric"], weight: 309731});
     network.edges.push(...nhsd.map(e => { return { nodes: [e.ds, "isaric"], weight: e.n}}));
 
+    network.edges.push({nodes: ["reco-isaric", "reco-recovery"], weight: 300})
     return network;
 
 }

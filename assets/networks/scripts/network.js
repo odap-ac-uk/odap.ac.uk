@@ -1,12 +1,19 @@
 import * as igd from './igd-graph.js';
 const colors = ["#4e79a7", "#f28e2c", "#e15759", "#76b7b2", "#59a14f", "#edc949", "#af7aa1", "#ff9da7", "#9c755f", "#bab0ab"]
 
-export function createNetwork(element, nodes=[], edges=[], width=1024, height=640, scale=(n)=>Math.pow(n, 1/2.5)) {
+export function createNetwork(element, nodes=[], edges=[], options={}) {
 
+    const defaults = {
+        width:1024, 
+        height:640, 
+        scale: (n)=>Math.pow(n, 1/2.5)
+    }
+
+    Object.assign(defaults, options);
     // the network object:
     const network = {}
 
-    network.refsize = width*2;
+    network.refsize = defaults.width*2;
 
     network.root = element;
     while (network.root.tagName?.toLowerCase() != "svg") {
@@ -23,8 +30,9 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
 
     element.setAttribute("visibility", "hidden");
 
-    const maxn = Math.max(...nodes.map(n => n.n));
-    const maxw = Math.max(...edges.map(e => e.weight));
+    const maxn = defaults.maxn || Math.max(...nodes.map(n => n.n));
+    const maxw = defaults.maxw || Math.max(...edges.map(e => e.weight));
+    const scale = defaults.scale;
 
     console.log(maxn, maxw)
     ////////////        UTILITY FUNCTIONS        //////////////////
@@ -100,13 +108,18 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
             u.dataset.name = data.name;
             
             data.nodes.forEach((subdata, i) => {
-                let sn = createNode({name: subdata.name, n: subdata.n, color: data.color});
+                let sn = createNode({name: subdata.name, n: subdata.n, color: data.color, label: subdata.label});
                 sn.source = data.name;
                 sn.hide();
                 subnodes.push(sn);
             })
 
+            let expanded = false;
+
             u.addEventListener("click", (e) => { // event name changed to null to remove the event, as we don't need to worry about datasets for now.
+                if (expanded) return;
+
+                expanded = true;
                 u.parentNode.dispatchEvent(new MouseEvent("click"));
 
                 u.setAttribute("visibility", "hidden");
@@ -216,6 +229,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
                         p.remove();
                         close.remove();
                         close_sim.restart();
+                        expanded = false;
                     })
                 
                 })
@@ -241,7 +255,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
             e.stopPropagation();
 
             if (u.tagName.toLowerCase() == "circle") {
-                element.querySelectorAll(".selected").forEach(s => s.classList.remove("selected"));
+                network.root.querySelectorAll(".selected").forEach(s => s.classList.remove("selected"));
 
                 u.classList.add("selected");
                 title.classList.add("selected");
@@ -249,6 +263,10 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
                     element.lastChild.after(u, title);
                 }
             }
+        })
+
+        title.addEventListener("click", e => {
+            u.dispatchEvent(new MouseEvent("click"));
         })
 
         const node = {
