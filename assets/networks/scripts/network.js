@@ -311,7 +311,7 @@ export function createNetwork(element, nodes=[], edges=[], width=1024, height=64
             return;
         
 
-        const linkid = `${node1.name}>${node2.name}`
+        const linkid = `${node1.name.replaceAll(" ", "_")}-${node2.name.replaceAll(" ", "_")}`
         // create an appropriate color gradient
         var stroke = network.root.querySelector(`#${linkid}`)
 

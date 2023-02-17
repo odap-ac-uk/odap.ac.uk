@@ -1,0 +1,14 @@
+[
+ { "ds": "Deaths", "n": 93734 },
+ { "ds": "AE", "n": 187117 },
+ { "ds": "ECDS", "n": 247074 },
+ { "ds": "CHESS", "n": 37189 },
+ { "ds": "SGSS", "n": 243901 },
+ { "ds": "Pillar 2", "n": 137855 },
+ { "ds": "Vaccination Status", "n": 132638 },
+ { "ds": "Vaccination Adverse Reactions", "n": 54 },
+ { "ds": "GP", "n": 244276 },
+ { "ds": "NDA", "n": 59361 },
+ { "ds": "IAPT", "n": 11378 },
+ { "ds": "MHS", "n": 45428 }
+]

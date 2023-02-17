@@ -68,7 +68,8 @@ export async function nsh_data() {
     const main = await fetch("/assets/data/nsh_main.json").then(response => response.json());
     const c19 = await fetch("/assets/data/nhss_main.json").then(response => response.json());
     const c19_main = await fetch("/assets/data/nhss_linkage.json").then(response => response.json());
-    
+    const nhsd = await fetch("/assets/data/nhsd_core.json").then(response => response.json());
+
     c19.forEach(c => {
         c.ds = c.projects.split(/ *, */);
         c.n = parseInt(c.n_patients);
@@ -103,6 +104,12 @@ export async function nsh_data() {
             ds: [
                 "deaths", "prescribing", "primary_care", "sicsag", "smr00", "smr01", "smr02", "smr06", "testing"
             ]
+        },
+        {
+            name: "nhsd",
+            label: "NHS Digital",
+            ds: ["Deaths","AE","ECDS","CHESS","SGSS","Pillar 2","Vaccination Status","Vaccination Adverse Reactions","GP","NDA","IAPT","MHS"
+            ]
         }
     ]
 
@@ -119,13 +126,20 @@ export async function nsh_data() {
 
     // populate n's for each node and subnode:
     network.nodes.forEach(n => {
-        cohorts.filter(c => c.ds.some(ds => n.nodes.find(sn => sn.name == ds))).forEach(cohort => {
-            n.n += cohort.n
-            for (let name of cohort.ds) {
-                let sn = n.nodes.find(sn => sn.name == name)
-                if (sn) sn.n += cohort.n;
+        if (n.name == "nhsd") {
+            n.n = 309731;
+            for (let node of n.nodes) {
+                node.n = nhsd.find(e => e.ds == node.name)?.n;
             }
-        })
+        } else {
+            cohorts.filter(c => c.ds.some(ds => n.nodes.find(sn => sn.name == ds))).forEach(cohort => {
+                n.n += cohort.n
+                for (let name of cohort.ds) {
+                    let sn = n.nodes.find(sn => sn.name == name)
+                    if (sn) sn.n += cohort.n;
+                }
+            })
+        }
     })
 
 
@@ -199,6 +213,9 @@ export async function nsh_data() {
     c19_main_edges.forEach(e => e.weight = Math.trunc(e.weight))
 
     network.edges.push(...c19_main_edges);
+
+    network.edges.push({ nodes: ["nhsd", "isaric"], weight: 309731});
+    network.edges.push(...nhsd.map(e => { return { nodes: [e.ds, "isaric"], weight: e.n}}));
 
     return network;
 
