@@ -72,7 +72,8 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
         {
             index: int OR
             color: str,
-            nodes: array of these structures
+            nodes: array of these structures,
+            label: a longer title for display purposes
         }
 
         Each data object is then assigned the following properties:
@@ -118,6 +119,9 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
             u.addEventListener("click", (e) => { // event name changed to null to remove the event, as we don't need to worry about datasets for now.
                 if (expanded) return;
 
+                // this should move the holder of this network to the front of the SVG canvas
+                network.root.appendChild(element);
+
                 expanded = true;
                 u.parentNode.dispatchEvent(new MouseEvent("click"));
 
@@ -143,12 +147,14 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
                 title.classList.add("active");
                 title.removeAttribute("visibility");
 
+                const spacing_radius = (n) => Math.max(n.radius + subnodes.length, n.label?.length * 1.5 || n.name.length * 1.5, 1);
+
                 const getBounds = () => {
                     return {
-                        xmin: Math.min(...subnodes.map(n => n.x - n.radius), data.x-100),
-                        xmax: Math.max(...subnodes.map(n => n.x + n.radius), data.x+100),
-                        ymin: Math.min(...subnodes.map(n => n.y - n.radius)),
-                        ymax: Math.max(...subnodes.map(n => n.y + n.radius))
+                        xmin: Math.min(...subnodes.map(n => n.x - spacing_radius(n)), data.x-100),
+                        xmax: Math.max(...subnodes.map(n => n.x + spacing_radius(n)), data.x+100),
+                        ymin: Math.min(...subnodes.map(n => n.y - spacing_radius(n))),
+                        ymax: Math.max(...subnodes.map(n => n.y + spacing_radius(n)))
                     }
 
                 }
@@ -167,7 +173,7 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
                 sim.force("restrain", forceRestrain(Math.max(data.x, network.refsize/10), data.y));
 
                 sim.force("collide", null);
-                sim.force("collide", d3.forceCollide(function(n) { return n.radius + subnodes.length; }).iterations(2))
+                sim.force("collide", d3.forceCollide(spacing_radius).iterations(2))
 
                 sim.alphaMin(1/(subnodes.length*5));
 
@@ -348,7 +354,7 @@ export function createNetwork(element, nodes=[], edges=[], options={}) {
         path.setAttribute("stroke", `url('#${linkid}')`);
         path.setAttribute("stroke-width", scale(weight/maxw) * Math.sqrt(network.refsize*Math.PI));
 
-        path.setAttribute("opacity", Math.max(0.5, Math.sqrt(scale(weight/(maxw*2)))));
+        path.setAttribute("opacity", 0.5);
         // we always want links under all elements, so push to the top of the svg stack.
         element.insertAdjacentElement("afterbegin", path);
 

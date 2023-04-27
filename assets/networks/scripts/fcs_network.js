@@ -24,8 +24,8 @@ svg.addEventListener("click", (e) => {
 const fcs_data = await data.fcs_data();
 const nsh_data = await data.nsh_data();
 
+console.log(JSON.stringify(fcs_data), JSON.stringify(nsh_data));
 
-console.log(fcs_data.edges, nsh_data.edges)
 const glob_maxn = Math.max(...fcs_data.nodes.map(node => node.n), ...nsh_data.nodes.map(node => node.n));
 const glob_maxw = Math.max(...fcs_data.edges.map(edge => edge.weight), ...nsh_data.edges.map(edge => edge.weight));
 
