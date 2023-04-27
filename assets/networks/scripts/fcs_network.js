@@ -1,6 +1,4 @@
 import { createNetwork } from './network.js';
-import * as data from './data.js';
-import { edge } from './igd-graph.js';
 
 document.head.insertAdjacentHTML("beforeend", `
         <link rel="stylesheet" type="text/css" href="/assets/networks/style/index.css" />
@@ -21,10 +19,8 @@ svg.addEventListener("click", (e) => {
     svg.querySelectorAll(".selected").forEach(s => s.classList.remove("selected"));
 });
 
-const fcs_data = await data.fcs_data();
-const nsh_data = await data.nsh_data();
-
-console.log(JSON.stringify(fcs_data), JSON.stringify(nsh_data));
+const fcs_data = await fetch("/assets/data/fcsnet.json").then(response => response.json());
+const nsh_data = await fetch("/assets/data/nshnet.json").then(response => response.json());
 
 const glob_maxn = Math.max(...fcs_data.nodes.map(node => node.n), ...nsh_data.nodes.map(node => node.n));
 const glob_maxw = Math.max(...fcs_data.edges.map(edge => edge.weight), ...nsh_data.edges.map(edge => edge.weight));

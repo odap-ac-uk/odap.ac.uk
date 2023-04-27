@@ -1,1 +1,1065 @@
-{"edges":[{"nodes":["genomicc","cog-uk"],"weight":1688},{"nodes":["rs-genomicc","cog-uk"],"weight":1688},{"nodes":[null,"cog"],"weight":64616},{"nodes":["rs-genomicc","cog"],"weight":1688},{"nodes":["isaric","cog-uk"],"weight":61709},{"nodes":["isaric4c","cog-uk"],"weight":61709},{"nodes":["isaric4c","cog"],"weight":61709},{"nodes":["phosp","cog-uk"],"weight":1219},{"nodes":["rs-phosp","cog-uk"],"weight":1219},{"nodes":["rs-phosp","cog"],"weight":1219},{"nodes":["phosp","genomicc"],"weight":979},{"nodes":["rs-phosp","genomicc"],"weight":937},{"nodes":[null,"rs-genomicc"],"weight":9038},{"nodes":["rs-phosp","rs-genomicc"],"weight":979},{"nodes":["isaric","genomicc"],"weight":8101},{"nodes":["isaric4c","genomicc"],"weight":8101},{"nodes":["isaric4c","rs-genomicc"],"weight":8101},{"nodes":["phosp","isaric"],"weight":4673},{"nodes":["rs-phosp","isaric"],"weight":4673},{"nodes":[null,"isaric4c"],"weight":13132},{"nodes":["rs-phosp","isaric4c"],"weight":4673},{"nodes":["rs-genomicc","phosp"],"weight":42},{"nodes":[null,"rs-phosp"],"weight":321},{"nodes":["nhss_smr01","isaric"],"weight":15},{"nodes":["nhss","isaric"],"weight":8459},{"nodes":["nhss","isaric4c"],"weight":8459},{"nodes":["nhss_smr01","nhss_deaths"],"weight":5},{"nodes":["nhss_smr01","nhss_prescribing"],"weight":10},{"nodes":["nhss_smr01","nhss_sicsag"],"weight":5},{"nodes":["nhss_testing","nhss_smr01"],"weight":8628},{"nodes":["nhss_testing","isaric"],"weight":8439},{"nodes":["nhss_testing","nhss_deaths"],"weight":3139},{"nodes":["nhss_testing","nhss_primary_care"],"weight":8024},{"nodes":["nhss_testing","nhss_prescribing"],"weight":8563},{"nodes":["nhss_testing","nhss_smr00"],"weight":8453},{"nodes":["nhss_testing","nhss_sicsag"],"weight":1977},{"nodes":["nhss_smr02","nhss_smr01"],"weight":2},{"nodes":["nhss_smr02","nhss_smr00"],"weight":2},{"nodes":["nhss_smr02","isaric"],"weight":2},{"nodes":["nhss_testing","nhss_smr02"],"weight":599},{"nodes":["nhss_smr01","nhss_smr00"],"weight":7},{"nodes":["nhss_smr01","nhss_primary_care"],"weight":5},{"nodes":["nhss_testing","phosp"],"weight":279},{"nodes":["nhss","phosp"],"weight":279},{"nodes":["nhss","rs-phosp"],"weight":279},{"nodes":["nhss_testing","nhss_smr06"],"weight":2019},{"nodes":["nhss_smr06","nhss_smr01"],"weight":2},{"nodes":["nhss_smr06","nhss_smr00"],"weight":2},{"nodes":["nhss_smr06","nhss_primary_care"],"weight":2},{"nodes":["nhss_smr06","nhss_prescribing"],"weight":2},{"nodes":["nhss_smr06","isaric"],"weight":2},{"nodes":["nhss_smr06","nhss_deaths"],"weight":2},{"nodes":["nhsd","isaric"],"weight":309731},{"nodes":["nhsd_gp","nhsd_apc"],"weight":253013},{"nodes":["nhsd_gp","nhsd_ecds"],"weight":249137},{"nodes":["nhsd_gp","nhsd_ae"],"weight":187044},{"nodes":["nhsd_gp","nhsd_chess"],"weight":38290},{"nodes":["nhsd_gp","nhsd_sgss"],"weight":244599},{"nodes":["nhsd_gp","nhsd_pillar2"],"weight":141904},{"nodes":["nhsd_gp","nhsd_vacc"],"weight":169932},{"nodes":["nhsd_gp","nhsd_deaths"],"weight":96184},{"nodes":["nhsd_gp","nhsd_nda"],"weight":61965},{"nodes":["nhsd_gp","nhsd_iapt"],"weight":23689},{"nodes":["nhsd_gp","nhsd_mhs"],"weight":61378},{"nodes":["nhsd_apc","nhsd_ecds"],"weight":256662},{"nodes":["nhsd_apc","nhsd_ae"],"weight":251162},{"nodes":["nhsd_apc","nhsd_chess"],"weight":100797},{"nodes":["nhsd_apc","nhsd_sgss"],"weight":251162},{"nodes":["nhsd_apc","nhsd_pillar2"],"weight":144031},{"nodes":["nhsd_apc","nhsd_vacc"],"weight":172592},{"nodes":["nhsd_apc","nhsd_deaths"],"weight":263702},{"nodes":["nhsd_apc","nhsd_nda"],"weight":62594},{"nodes":["nhsd_apc","nhsd_iapt"],"weight":24154},{"nodes":["nhsd_apc","nhsd_mhs"],"weight":63194},{"nodes":["nhsd_ecds","nhsd_ae"],"weight":39241},{"nodes":["nhsd_ecds","nhsd_chess"],"weight":99624},{"nodes":["nhsd_ecds","nhsd_sgss"],"weight":247216},{"nodes":["nhsd_ecds","nhsd_pillar2"],"weight":142086},{"nodes":["nhsd_ecds","nhsd_vacc"],"weight":170092},{"nodes":["nhsd_ecds","nhsd_deaths"],"weight":256662},{"nodes":["nhsd_ecds","nhsd_nda"],"weight":61998},{"nodes":["nhsd_ecds","nhsd_iapt"],"weight":23952},{"nodes":["nhsd_ecds","nhsd_mhs"],"weight":62816},{"nodes":["nhsd_ae","nhsd_chess"],"weight":29291},{"nodes":["nhsd_ae","nhsd_sgss"],"weight":186127},{"nodes":["nhsd_ae","nhsd_pillar2"],"weight":105403},{"nodes":["nhsd_ae","nhsd_vacc"],"weight":126647},{"nodes":["nhsd_ae","nhsd_deaths"],"weight":192708},{"nodes":["nhsd_ae","nhsd_nda"],"weight":50325},{"nodes":["nhsd_ae","nhsd_iapt"],"weight":19886},{"nodes":["nhsd_ae","nhsd_mhs"],"weight":55358},{"nodes":["nhsd_chess","nhsd_sgss"],"weight":40159},{"nodes":["nhsd_chess","nhsd_pillar2"],"weight":20538},{"nodes":["nhsd_chess","nhsd_vacc"],"weight":24331},{"nodes":["nhsd_chess","nhsd_deaths"],"weight":39839},{"nodes":["nhsd_chess","nhsd_nda"],"weight":10037},{"nodes":["nhsd_chess","nhsd_iapt"],"weight":3705},{"nodes":["nhsd_chess","nhsd_mhs"],"weight":8858},{"nodes":["nhsd_sgss","nhsd_pillar2"],"weight":38981},{"nodes":["nhsd_sgss","nhsd_vacc"],"weight":167481},{"nodes":["nhsd_sgss","nhsd_deaths"],"weight":251162},{"nodes":["nhsd_sgss","nhsd_nda"],"weight":60561},{"nodes":["nhsd_sgss","nhsd_iapt"],"weight":23444},{"nodes":["nhsd_sgss","nhsd_mhs"],"weight":61317},{"nodes":["nhsd_pillar2","nhsd_vacc"],"weight":20538},{"nodes":["nhsd_pillar2","nhsd_deaths"],"weight":144031},{"nodes":["nhsd_pillar2","nhsd_nda"],"weight":29929},{"nodes":["nhsd_pillar2","nhsd_iapt"],"weight":17155},{"nodes":["nhsd_pillar2","nhsd_mhs"],"weight":35563},{"nodes":["nhsd_vacc","nhsd_deaths"],"weight":24331},{"nodes":["nhsd_vacc","nhsd_nda"],"weight":41399},{"nodes":["nhsd_vacc","nhsd_iapt"],"weight":18748},{"nodes":["nhsd_vacc","nhsd_mhs"],"weight":39824},{"nodes":["nhsd_deaths","nhsd_nda"],"weight":17271},{"nodes":["nhsd_deaths","nhsd_iapt"],"weight":3883},{"nodes":["nhsd_deaths","nhsd_mhs"],"weight":29788},{"nodes":["nhsd_nda","nhsd_iapt"],"weight":4775},{"nodes":["nhsd_nda","nhsd_mhs"],"weight":16543},{"nodes":["nhsd_iapt","nhsd_mhs"],"weight":16543},{"nodes":["isaric","nhsd_gp"],"weight":255976},{"nodes":["isaric","nhsd_apc"],"weight":263702},{"nodes":["isaric","nhsd_ecds"],"weight":259379},{"nodes":["isaric","nhsd_ae"],"weight":194743},{"nodes":["isaric","nhsd_chess"],"weight":40159},{"nodes":["isaric","nhsd_sgss"],"weight":253975},{"nodes":["isaric","nhsd_pillar 2"],"weight":146151},{"nodes":["isaric","nhsd_vaccinations"],"weight":174748},{"nodes":["isaric","nhsd_deaths"],"weight":104832},{"nodes":["isaric","nhsd_nda"],"weight":62874},{"nodes":["isaric","nhsd_iapt"],"weight":24540},{"nodes":["isaric","nhsd_mhs"],"weight":64062},{"nodes":["reco-isaric","reco-recovery"],"weight":300}],"nodes":[{"name":"cog","n":2261370,"x":155,"y":87.5,"color":"#4e79a7","nodes":[{"name":"cog-uk","label":"cog-uk","n":2261370,"color":"#4e79a7"}]},{"name":"rs-genomicc","n":18389,"x":425,"y":87.5,"color":"#f28e2c","nodes":[{"name":"genomicc","label":"genomicc","n":18389,"color":"#f28e2c"}]},{"name":"rs-phosp","n":8247,"x":155,"y":222.5,"color":"#e15759","nodes":[{"name":"phosp","label":"phosp","n":8247,"color":"#e15759"}]},{"name":"isaric4c","n":285857,"x":425,"y":222.5,"color":"#76b7b2","nodes":[{"name":"isaric","label":"isaric","n":285857,"color":"#76b7b2"}]},{"name":"nhss","label":"NHS Scotland Covid 19 Database","n":8673,"x":155,"y":357.5,"color":"#59a14f","nodes":[{"name":"nhss_deaths","label":"deaths","n":3147,"color":"#59a14f"},{"name":"nhss_prescribing","label":"prescribing","n":8576,"color":"#59a14f"},{"name":"nhss_primary_care","label":"primary","n":8031,"color":"#59a14f"},{"name":"nhss_sicsag","label":"sicsag","n":1982,"color":"#59a14f"},{"name":"nhss_smr00","label":"smr00","n":8465,"color":"#59a14f"},{"name":"nhss_smr01","label":"smr01","n":8648,"color":"#59a14f"},{"name":"nhss_smr02","label":"smr02","n":601,"color":"#59a14f"},{"name":"nhss_smr06","label":"smr06","n":2021,"color":"#59a14f"},{"name":"nhss_testing","label":"testing","n":8653,"color":"#59a14f"}]},{"name":"nhsd","label":"NHS Digital","n":309731,"x":425,"y":357.5,"color":"#edc949","nodes":[{"name":"nhsd_gp","label":"gp","n":255976,"color":"#edc949"},{"name":"nhsd_apc","label":"apc","n":263702,"color":"#edc949"},{"name":"nhsd_ecds","label":"ecds","n":259379,"color":"#edc949"},{"name":"nhsd_ae","label":"ae","n":194743,"color":"#edc949"},{"name":"nhsd_chess","label":"chess","n":40159,"color":"#edc949"},{"name":"nhsd_sgss","label":"sgss","n":253975,"color":"#edc949"},{"name":"nhsd_pillar 2","label":"pillar 2","n":146151,"color":"#edc949"},{"name":"nhsd_vaccinations","label":"vaccinations","n":174748,"color":"#edc949"},{"name":"nhsd_deaths","label":"deaths","n":104832,"color":"#edc949"},{"name":"nhsd_nda","label":"nda","n":62874,"color":"#edc949"},{"name":"nhsd_iapt","label":"iapt","n":24540,"color":"#edc949"},{"name":"nhsd_mhs","label":"mhs","n":64062,"color":"#edc949"}]},{"name":"recovery","label":"RECOVERY-ISARIC","n":277398,"x":155,"y":492.5,"color":"#af7aa1","nodes":[{"name":"reco-isaric","label":"isaric (recovery)","n":277398},{"name":"reco-recovery","label":"Recovery","n":300}]}]}
+{
+    "edges": [
+        {
+            "nodes": [
+                "genomicc",
+                "cog-uk"
+            ],
+            "weight": 1688
+        },
+        {
+            "nodes": [
+                "rs-genomicc",
+                "cog-uk"
+            ],
+            "weight": 1688
+        },
+        {
+            "nodes": [
+                null,
+                "cog"
+            ],
+            "weight": 64616
+        },
+        {
+            "nodes": [
+                "rs-genomicc",
+                "cog"
+            ],
+            "weight": 1688
+        },
+        {
+            "nodes": [
+                "isaric",
+                "cog-uk"
+            ],
+            "weight": 61709
+        },
+        {
+            "nodes": [
+                "isaric4c",
+                "cog-uk"
+            ],
+            "weight": 61709
+        },
+        {
+            "nodes": [
+                "isaric4c",
+                "cog"
+            ],
+            "weight": 61709
+        },
+        {
+            "nodes": [
+                "phosp",
+                "cog-uk"
+            ],
+            "weight": 1219
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "cog-uk"
+            ],
+            "weight": 1219
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "cog"
+            ],
+            "weight": 1219
+        },
+        {
+            "nodes": [
+                "phosp",
+                "genomicc"
+            ],
+            "weight": 979
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "genomicc"
+            ],
+            "weight": 937
+        },
+        {
+            "nodes": [
+                null,
+                "rs-genomicc"
+            ],
+            "weight": 9038
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "rs-genomicc"
+            ],
+            "weight": 979
+        },
+        {
+            "nodes": [
+                "isaric",
+                "genomicc"
+            ],
+            "weight": 8101
+        },
+        {
+            "nodes": [
+                "isaric4c",
+                "genomicc"
+            ],
+            "weight": 8101
+        },
+        {
+            "nodes": [
+                "isaric4c",
+                "rs-genomicc"
+            ],
+            "weight": 8101
+        },
+        {
+            "nodes": [
+                "phosp",
+                "isaric"
+            ],
+            "weight": 4673
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "isaric"
+            ],
+            "weight": 4673
+        },
+        {
+            "nodes": [
+                null,
+                "isaric4c"
+            ],
+            "weight": 13132
+        },
+        {
+            "nodes": [
+                "rs-phosp",
+                "isaric4c"
+            ],
+            "weight": 4673
+        },
+        {
+            "nodes": [
+                "rs-genomicc",
+                "phosp"
+            ],
+            "weight": 42
+        },
+        {
+            "nodes": [
+                null,
+                "rs-phosp"
+            ],
+            "weight": 321
+        },
+        {
+            "nodes": [
+                "nhss_smr01",
+                "isaric"
+            ],
+            "weight": 15
+        },
+        {
+            "nodes": [
+                "nhss",
+                "isaric"
+            ],
+            "weight": 8459
+        },
+        {
+            "nodes": [
+                "nhss",
+                "isaric4c"
+            ],
+            "weight": 8459
+        },
+        {
+            "nodes": [
+                "nhss_smr01",
+                "nhss_prescribing"
+            ],
+            "weight": 10
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_smr01"
+            ],
+            "weight": 8628
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "isaric"
+            ],
+            "weight": 8439
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_deaths"
+            ],
+            "weight": 3139
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_primary_care"
+            ],
+            "weight": 8024
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_prescribing"
+            ],
+            "weight": 8563
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_smr00"
+            ],
+            "weight": 8453
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_sicsag"
+            ],
+            "weight": 1977
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_smr02"
+            ],
+            "weight": 599
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "phosp"
+            ],
+            "weight": 279
+        },
+        {
+            "nodes": [
+                "nhss",
+                "phosp"
+            ],
+            "weight": 279
+        },
+        {
+            "nodes": [
+                "nhss",
+                "rs-phosp"
+            ],
+            "weight": 279
+        },
+        {
+            "nodes": [
+                "nhss_testing",
+                "nhss_smr06"
+            ],
+            "weight": 2019
+        },
+        {
+            "nodes": [
+                "nhsd",
+                "isaric"
+            ],
+            "weight": 309731
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_apc"
+            ],
+            "weight": 253013
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_ecds"
+            ],
+            "weight": 249137
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_ae"
+            ],
+            "weight": 187044
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_chess"
+            ],
+            "weight": 38290
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_sgss"
+            ],
+            "weight": 244599
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_pillar2"
+            ],
+            "weight": 141904
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_vacc"
+            ],
+            "weight": 169932
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_deaths"
+            ],
+            "weight": 96184
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_nda"
+            ],
+            "weight": 61965
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_iapt"
+            ],
+            "weight": 23689
+        },
+        {
+            "nodes": [
+                "nhsd_gp",
+                "nhsd_mhs"
+            ],
+            "weight": 61378
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_ecds"
+            ],
+            "weight": 256662
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_ae"
+            ],
+            "weight": 251162
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_chess"
+            ],
+            "weight": 100797
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_sgss"
+            ],
+            "weight": 251162
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_pillar2"
+            ],
+            "weight": 144031
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_vacc"
+            ],
+            "weight": 172592
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_deaths"
+            ],
+            "weight": 263702
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_nda"
+            ],
+            "weight": 62594
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_iapt"
+            ],
+            "weight": 24154
+        },
+        {
+            "nodes": [
+                "nhsd_apc",
+                "nhsd_mhs"
+            ],
+            "weight": 63194
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_ae"
+            ],
+            "weight": 39241
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_chess"
+            ],
+            "weight": 99624
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_sgss"
+            ],
+            "weight": 247216
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_pillar2"
+            ],
+            "weight": 142086
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_vacc"
+            ],
+            "weight": 170092
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_deaths"
+            ],
+            "weight": 256662
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_nda"
+            ],
+            "weight": 61998
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_iapt"
+            ],
+            "weight": 23952
+        },
+        {
+            "nodes": [
+                "nhsd_ecds",
+                "nhsd_mhs"
+            ],
+            "weight": 62816
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_chess"
+            ],
+            "weight": 29291
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_sgss"
+            ],
+            "weight": 186127
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_pillar2"
+            ],
+            "weight": 105403
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_vacc"
+            ],
+            "weight": 126647
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_deaths"
+            ],
+            "weight": 192708
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_nda"
+            ],
+            "weight": 50325
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_iapt"
+            ],
+            "weight": 19886
+        },
+        {
+            "nodes": [
+                "nhsd_ae",
+                "nhsd_mhs"
+            ],
+            "weight": 55358
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_sgss"
+            ],
+            "weight": 40159
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_pillar2"
+            ],
+            "weight": 20538
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_vacc"
+            ],
+            "weight": 24331
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_deaths"
+            ],
+            "weight": 39839
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_nda"
+            ],
+            "weight": 10037
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_iapt"
+            ],
+            "weight": 3705
+        },
+        {
+            "nodes": [
+                "nhsd_chess",
+                "nhsd_mhs"
+            ],
+            "weight": 8858
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_pillar2"
+            ],
+            "weight": 38981
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_vacc"
+            ],
+            "weight": 167481
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_deaths"
+            ],
+            "weight": 251162
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_nda"
+            ],
+            "weight": 60561
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_iapt"
+            ],
+            "weight": 23444
+        },
+        {
+            "nodes": [
+                "nhsd_sgss",
+                "nhsd_mhs"
+            ],
+            "weight": 61317
+        },
+        {
+            "nodes": [
+                "nhsd_pillar2",
+                "nhsd_vacc"
+            ],
+            "weight": 20538
+        },
+        {
+            "nodes": [
+                "nhsd_pillar2",
+                "nhsd_deaths"
+            ],
+            "weight": 144031
+        },
+        {
+            "nodes": [
+                "nhsd_pillar2",
+                "nhsd_nda"
+            ],
+            "weight": 29929
+        },
+        {
+            "nodes": [
+                "nhsd_pillar2",
+                "nhsd_iapt"
+            ],
+            "weight": 17155
+        },
+        {
+            "nodes": [
+                "nhsd_pillar2",
+                "nhsd_mhs"
+            ],
+            "weight": 35563
+        },
+        {
+            "nodes": [
+                "nhsd_vacc",
+                "nhsd_deaths"
+            ],
+            "weight": 24331
+        },
+        {
+            "nodes": [
+                "nhsd_vacc",
+                "nhsd_nda"
+            ],
+            "weight": 41399
+        },
+        {
+            "nodes": [
+                "nhsd_vacc",
+                "nhsd_iapt"
+            ],
+            "weight": 18748
+        },
+        {
+            "nodes": [
+                "nhsd_vacc",
+                "nhsd_mhs"
+            ],
+            "weight": 39824
+        },
+        {
+            "nodes": [
+                "nhsd_deaths",
+                "nhsd_nda"
+            ],
+            "weight": 17271
+        },
+        {
+            "nodes": [
+                "nhsd_deaths",
+                "nhsd_iapt"
+            ],
+            "weight": 3883
+        },
+        {
+            "nodes": [
+                "nhsd_deaths",
+                "nhsd_mhs"
+            ],
+            "weight": 29788
+        },
+        {
+            "nodes": [
+                "nhsd_nda",
+                "nhsd_iapt"
+            ],
+            "weight": 4775
+        },
+        {
+            "nodes": [
+                "nhsd_nda",
+                "nhsd_mhs"
+            ],
+            "weight": 16543
+        },
+        {
+            "nodes": [
+                "nhsd_iapt",
+                "nhsd_mhs"
+            ],
+            "weight": 16543
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_gp"
+            ],
+            "weight": 255976
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_apc"
+            ],
+            "weight": 263702
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_ecds"
+            ],
+            "weight": 259379
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_ae"
+            ],
+            "weight": 194743
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_chess"
+            ],
+            "weight": 40159
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_sgss"
+            ],
+            "weight": 253975
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_pillar 2"
+            ],
+            "weight": 146151
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_vaccinations"
+            ],
+            "weight": 174748
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_deaths"
+            ],
+            "weight": 104832
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_nda"
+            ],
+            "weight": 62874
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_iapt"
+            ],
+            "weight": 24540
+        },
+        {
+            "nodes": [
+                "isaric",
+                "nhsd_mhs"
+            ],
+            "weight": 64062
+        },
+        {
+            "nodes": [
+                "reco-isaric",
+                "reco-recovery"
+            ],
+            "weight": 300
+        }
+    ],
+    "nodes": [
+        {
+            "name": "cog",
+            "n": 2261370,
+            "x": 155,
+            "y": 87.5,
+            "color": "#4e79a7",
+            "nodes": [
+                {
+                    "name": "cog-uk",
+                    "label": "cog-uk",
+                    "n": 2261370,
+                    "color": "#4e79a7"
+                }
+            ]
+        },
+        {
+            "name": "rs-genomicc",
+            "n": 18389,
+            "x": 425,
+            "y": 87.5,
+            "color": "#f28e2c",
+            "nodes": [
+                {
+                    "name": "genomicc",
+                    "label": "genomicc",
+                    "n": 18389,
+                    "color": "#f28e2c"
+                }
+            ]
+        },
+        {
+            "name": "rs-phosp",
+            "n": 8247,
+            "x": 155,
+            "y": 222.5,
+            "color": "#e15759",
+            "nodes": [
+                {
+                    "name": "phosp",
+                    "label": "phosp",
+                    "n": 8247,
+                    "color": "#e15759"
+                }
+            ]
+        },
+        {
+            "name": "isaric4c",
+            "n": 285857,
+            "x": 425,
+            "y": 222.5,
+            "color": "#76b7b2",
+            "nodes": [
+                {
+                    "name": "isaric",
+                    "label": "isaric",
+                    "n": 285857,
+                    "color": "#76b7b2"
+                }
+            ]
+        },
+        {
+            "name": "nhss",
+            "label": "NHS Scotland Covid 19 Database",
+            "n": 8673,
+            "x": 155,
+            "y": 357.5,
+            "color": "#59a14f",
+            "nodes": [
+                {
+                    "name": "nhss_deaths",
+                    "label": "deaths",
+                    "n": 3147,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_prescribing",
+                    "label": "prescribing",
+                    "n": 8576,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_primary_care",
+                    "label": "primary",
+                    "n": 8031,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_sicsag",
+                    "label": "sicsag",
+                    "n": 1982,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_smr00",
+                    "label": "smr00",
+                    "n": 8465,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_smr01",
+                    "label": "smr01",
+                    "n": 8648,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_smr02",
+                    "label": "smr02",
+                    "n": 601,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_smr06",
+                    "label": "smr06",
+                    "n": 2021,
+                    "color": "#59a14f"
+                },
+                {
+                    "name": "nhss_testing",
+                    "label": "testing",
+                    "n": 8653,
+                    "color": "#59a14f"
+                }
+            ]
+        },
+        {
+            "name": "nhsd",
+            "label": "NHS Digital",
+            "n": 309731,
+            "x": 425,
+            "y": 357.5,
+            "color": "#edc949",
+            "nodes": [
+                {
+                    "name": "nhsd_gp",
+                    "label": "gp",
+                    "n": 255976,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_apc",
+                    "label": "apc",
+                    "n": 263702,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_ecds",
+                    "label": "ecds",
+                    "n": 259379,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_ae",
+                    "label": "ae",
+                    "n": 194743,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_chess",
+                    "label": "chess",
+                    "n": 40159,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_sgss",
+                    "label": "sgss",
+                    "n": 253975,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_pillar 2",
+                    "label": "pillar 2",
+                    "n": 146151,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_vaccinations",
+                    "label": "vaccinations",
+                    "n": 174748,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_deaths",
+                    "label": "deaths",
+                    "n": 104832,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_nda",
+                    "label": "nda",
+                    "n": 62874,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_iapt",
+                    "label": "iapt",
+                    "n": 24540,
+                    "color": "#edc949"
+                },
+                {
+                    "name": "nhsd_mhs",
+                    "label": "mhs",
+                    "n": 64062,
+                    "color": "#edc949"
+                }
+            ]
+        },
+        {
+            "name": "recovery",
+            "label": "RECOVERY-ISARIC",
+            "n": 277398,
+            "x": 155,
+            "y": 492.5,
+            "color": "#af7aa1",
+            "nodes": [
+                {
+                    "name": "reco-isaric",
+                    "label": "isaric (recovery)",
+                    "n": 277398
+                },
+                {
+                    "name": "reco-recovery",
+                    "label": "Recovery",
+                    "n": 300
+                }
+            ]
+        }
+    ]
+}
