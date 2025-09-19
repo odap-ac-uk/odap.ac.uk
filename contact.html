@@ -1,47 +1,106 @@
-<!-- Start Contact Form -->
-<div class="row justify-content-center">
-    <div class="col-lg-8 col-md-10 col-sm-12">
-        <div class="contact-form-wrapper" style="padding: 40px; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-            <h2 style="text-align:center; margin-bottom: 30px;">Contact Us</h2>
-            
-            <!-- Success message (hidden by default) -->
-            <div id="success-message" style="display:none; text-align:center; margin-bottom:20px; color:#28a745; font-weight:600;">
-                Thank you! Your message has been sent.
+---
+layout: default
+title: Contact Us
+permalink: /contact
+---
+
+<main>
+    <!-- Start Breadcrumb Area -->
+    <div class="page-area bread-pd">
+        <div class="breadcumb-overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="breadcrumb-title text-center">
+                        <h2>{{page.title}}</h2>
+                        <div class="bread-come">
+                            {% include breadcrumb.html %}
+                        </div>
+                    </div>
+                </div>
             </div>
-
-            <form name="contact" method="POST" data-netlify="true" id="contact-form">
-                <input type="hidden" name="form-name" value="contact">
-
-                <div style="margin-bottom: 20px;">
-                    <label>Your Name:</label>
-                    <input type="text" name="name" required class="form-input">
-                </div>
-
-                <div style="margin-bottom: 20px;">
-                    <label>Your Email:</label>
-                    <input type="email" name="email" required class="form-input">
-                </div>
-
-                <div style="margin-bottom: 20px;">
-                    <label>Topic:</label>
-                    <input type="text" name="topic" required class="form-input">
-                </div>
-
-                <div style="margin-bottom: 25px;">
-                    <label>Message:</label>
-                    <textarea name="message" rows="6" required class="form-input"></textarea>
-                </div>
-
-                <div style="text-align:center;">
-                    <button type="submit" class="btn btn-primary">Send</button>
-                </div>
-            </form>
         </div>
     </div>
-</div>
-<!-- End Contact Form -->
+    <!-- End Breadcrumb Area -->
+
+    <!-- Start Contact Area -->
+    <div class="contact-area bg-color-xs area-padding">
+        <div class="container">
+            <div class="row">
+                <!-- Optional contact info columns -->
+                <div class="col-xl-4 col-lg-4 col-md-4">
+                    <div class="contact-icon">
+                        <div class="single-icon">
+                            <i class="fa fa-envelope-o"></i>
+                            <p>
+                                Email: odap@ed.ac.uk<br>
+                                <span>Web: www.odap.ac.uk</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4 col-lg-4 col-md-4">
+                    <div class="contact-icon">
+                        <div class="single-icon">
+                            <i class="fa fa-map-marker"></i>
+                            <p>
+                                Location: University of Edinburgh<br>
+                                <span>Edinburgh, UK</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Contact Form -->
+            <div class="row">
+                <div class="col-lg-8 col-md-10 col-sm-12 mx-auto">
+                    <div class="contact-form-wrapper" style="padding: 30px; background-color: rgba(255,255,255,0.95); border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin-top: 30px;">
+                        <h2 style="text-align:center; margin-bottom: 25px;">Get in Touch</h2>
+
+                        <!-- Success message -->
+                        <div id="success-message" style="display:none; text-align:center; margin-bottom:20px; color:#28a745; font-weight:600;">
+                            Thank you! Your message has been sent.
+                        </div>
+
+                        <form name="contact" method="POST" data-netlify="true" id="contact-form">
+                            <input type="hidden" name="form-name" value="contact">
+
+                            <div style="margin-bottom: 15px;">
+                                <label>Your Name:</label>
+                                <input type="text" name="name" required class="form-input">
+                            </div>
+
+                            <div style="margin-bottom: 15px;">
+                                <label>Your Email:</label>
+                                <input type="email" name="email" required class="form-input">
+                            </div>
+
+                            <div style="margin-bottom: 15px;">
+                                <label>Topic:</label>
+                                <input type="text" name="topic" required class="form-input">
+                            </div>
+
+                            <div style="margin-bottom: 20px;">
+                                <label>Message:</label>
+                                <textarea name="message" rows="5" required class="form-input"></textarea>
+                            </div>
+
+                            <div style="text-align:center;">
+                                <button type="submit" class="btn btn-primary">Send</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- End Contact Form -->
+        </div>
+    </div>
+    <!-- End Contact Area -->
+</main>
 
 <style>
+/* Contact Form Styling */
 .contact-form-wrapper label {
     display: block;
     font-weight: 600;
@@ -51,7 +110,7 @@
 
 .contact-form-wrapper .form-input {
     width: 100%;
-    padding: 12px 15px;
+    padding: 10px 12px;
     border: 1px solid #ccc;
     border-radius: 6px;
     font-size: 16px;
@@ -61,13 +120,13 @@
 .contact-form-wrapper .form-input:focus {
     outline: none;
     border-color: #0056b3;
-    box-shadow: 0 0 5px rgba(0,86,179,0.3);
+    box-shadow: 0 0 5px rgba(0,86,179,0.2);
 }
 
 .contact-form-wrapper .btn-primary {
     background-color: #0056b3;
     color: #fff;
-    padding: 12px 30px;
+    padding: 10px 25px;
     font-size: 16px;
     border: none;
     border-radius: 6px;
@@ -81,9 +140,9 @@
 </style>
 
 <script>
-// Optional: prevent page reload and show success message
+// Netlify form submission with success message
 document.getElementById("contact-form").addEventListener("submit", function(event) {
-    event.preventDefault(); // stop normal form submission
+    event.preventDefault();
     const form = event.target;
     fetch("/", {
         method: "POST",
