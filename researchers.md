@@ -1,7 +1,7 @@
 ---
-title: 'Outbreak Data Analysis Platform'
+title: 'Overview - Outbreak Data Analysis Platform'
 layout: page
-subtitle: Access data
+subtitle: [Access data](https://odap.ac.uk/contact)
 opener: The ODAP is guided and overseen by the ODAP Partnership, a collaboration among nationwide research studies, public health agencies, the NHS and clinicians and scientists.
 img_src: assets/img/art/s3.png
 permalink: /researchers
@@ -12,14 +12,14 @@ permalink: /researchers
 ## What it is
 
 - The purpose of the outbreak data analysis platform is to provide an accessible, usable data resource to enable research relevant to COVID-19 and future outbreaks. This will accelerate scientific understanding of new outbreaks for the benefit of patients and the protection of the public.
-- It will create a UK-wide capability by curating and linking outbreak relevant data from clinical records, research studies and audit data. It brings together key initiatives and leadership across the UK including ISARIC, COG-UK, MRC CLIMB and GenOMICC. 
+- It will create a UK-wide capability by curating and linking outbreak relevant data from clinical records, research studies and audit data. It brings together key initiatives and leadership across the UK including [ISARIC](https://isaric4c.net/), [COG-UK](https://www.cogconsortium.uk/), [MRC CLIMB](https://www.climb.ac.uk/) and [GenOMICC](https://genomicc.org/). 
 - The platform combines a national Trusted Research Environment (TRE) infrastructure collocated with >£100M of world-class computational and data science capacity including the UK National Supercomputer, with a UK-wide governance framework.
 
 
 ## What it isn't
 
 - It is not a replacement for public health activities. The platform will work closely with public health agencies across the 4 nations and with UK HSA, providing research insights and data feeds where useful to augment surveillance capacity, and a tried-and-tested route to engage additional analytic capacity and expertise from the academic sector.
-- It is not a viral sequence analysis platform. The excellent MRC CLIMB resource (a partner in this programme) provides excellent resources and infrastructure for analysis, presentation and sharing of viral sequences.
+- It is not a viral sequence analysis platform. The [MRC CLIMB](https://www.climb.ac.uk/) resource (a partner in this programme) provides excellent resources and infrastructure for analysis, presentation and sharing of viral sequences.
 - It is not a replacement for existing TREs. The analysis platform is a focused capability of the UKSA-accredited TRE hosted by Public Health Scotland, and will provide curated data feeds to TREs across the UK to facilitate and supplement data held elsewhere as part of a UK federated network.
 
 
@@ -27,11 +27,11 @@ permalink: /researchers
 
 ### Data held
 
-The platform already contains a unique aggregation of UK sovereign data assets, including the complete data resources of the ISARIC4C/CO-CIN, GenOMICC, PHOSP and UK-CIC studies, together with viral sequence data from COG-UK, and linkage to NHS clinical records and structured clinical audit data. This creates a unique opportunity to combine clinical, biological, genomics and virology research in as secure, openly-accessible framework. Manual curation of these linked datasets, in a single platform, is a key step to maximise data quality and usability.
+The platform already contains a unique aggregation of UK sovereign data assets, including the complete data resources of the [ISARIC4C](https://isaric4c.net/)/CO-CIN, [GenOMICC](https://genomicc.org/), [PHOSP](https://www.phosp.org/) and [UK-CIC](https://www.uk-cic.org/) studies, together with viral sequence data from [COG-UK](https://www.cogconsortium.uk/), and linkage to NHS clinical records and structured clinical audit data. This creates a unique opportunity to combine clinical, biological, genomics and virology research in as secure, openly-accessible framework. Manual curation of these linked datasets, in a single platform, is a key step to maximise data quality and usability.
 
 ### Compute power
 
-The platform is located at the UK National Supercomputer, and uses a range of capabilities from rom Private Cloud TRE infrastructure to large shared memory systems and massively parallel processing power. There is currently 2.5Pb of storage in use, expandable to many Petabytes as required. GPU servers are in place for massively-parallel applications such as genomics and image analysis
+The platform is located at the UK National Supercomputer, and uses a range of capabilities from Private Cloud TRE infrastructure to large shared memory systems and massively parallel processing power. There is currently 2.5Pb of storage in use, expandable to many Petabytes as required. GPU servers are in place for massively-parallel applications such as genomics and image analysis
 
 An API structure has been built for real-time data sharing with other trusted research environments across the UK, and to facilitate efficient data pipelines to supply surveillance feeds to public health.
 
