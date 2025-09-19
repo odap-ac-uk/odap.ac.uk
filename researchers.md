@@ -1,7 +1,7 @@
 ---
-title: 'Overview - Outbreak Data Analysis Platform'
+title: 'Outbreak Data Analysis Platform'
 layout: page
-subtitle: [Access data](https://odap.ac.uk/contact)
+subtitle: Access Data
 opener: The ODAP is guided and overseen by the ODAP Partnership, a collaboration among nationwide research studies, public health agencies, the NHS and clinicians and scientists.
 img_src: assets/img/art/s3.png
 permalink: /researchers
