@@ -26,6 +26,7 @@ permalink: /contact
     <!-- Start Contact Area -->
     <div class="contact-area bg-color-xs area-padding">
         <div class="container">
+
             <!-- Contact Form first -->
             <div class="row">
                 <div class="col-lg-8 col-md-10 col-sm-12 mx-auto">
@@ -37,9 +38,7 @@ permalink: /contact
                             Thank you! Your message has been sent.
                         </div>
 
-                        <form name="contact" method="POST" data-netlify="true" id="contact-form">
-                            <input type="hidden" name="form-name" value="contact">
-
+                        <form name="contact" netlify id="contact-form">
                             <div style="margin-bottom: 15px;">
                                 <label>Your Name:</label>
                                 <input type="text" name="name" required class="form-input">
@@ -93,6 +92,7 @@ permalink: /contact
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- End Contact Area -->
@@ -155,3 +155,4 @@ document.getElementById("contact-form").addEventListener("submit", function(even
     .catch(err => alert("Oops! Something went wrong."));
 });
 </script>
+
